@@ -1,7 +1,13 @@
 # LLMs-Lab  
 
 Full-stack LLM Engineering Lab. Features: Autonomous Agents (ReAct/AutoGPT) | Fine-Tuning Llama/Mistral (SFT/DPO) | Large Model Deployment (DeepSeek 671B / 2.5-bit) | Advanced RAG (Hybrid Search) | Function Calling (Stream/Text-to-SQL/External APIs) | Frameworks (LangChain, Semantic Kernel, OpenAI) | Daily SOTA Paper Tracking. From theory to 0-to-1.
-  
+
+## 📂 [Daily Paper Reading List](Docs/)
+
+Tracking the latest research and engineering across the LLM stack — architectures, training, reasoning, agents, RAG, serving, multimodal, and beyond.
+
+**[LLM Technology Landscape](Docs/README.md#llm-technology-landscape)** — A visual knowledge graph tracing the evolution of the entire LLM stack, from the Transformer to today's agentic systems. Click through for the full map.
+
 ## 9. 📂 [DeepSeek](DeepSeek/)
 Focused on **Inference Optimization** and **Low-Bit Quantization** strategies for massive-scale MoE models (600B+ parameters).
 
@@ -193,9 +199,5 @@ This folder contains various demos showcasing the capabilities of Function Calli
   
  - **`Text To Speech`**:
      text_to_speech 
-  
-## 0. 📂 [Docs](Docs/)    
-
-	Research papers and technical docs on LLMs.
   
 ##  📂 [Z_Others](Z_Others/) 
