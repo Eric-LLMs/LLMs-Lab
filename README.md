@@ -1,4 +1,4 @@
-# LLMs-Lab-2024
+# LLMs-Lab  
 
 This repository contains projects, research, and educational resources focused on Large Language Models (LLMs).  
 
@@ -8,11 +8,11 @@ This repository contains projects, research, and educational resources focused o
 
 ## 1. Task-oriented Dialogue System  
 
-   This demo implements a multi-turn, task-oriented intelligent customer service system using gpt-3.5-turbo API.  
+   This demo implements a multi-turn, task-oriented intelligent customer service system using gpt-3.5-turbo API.    
    
-## 2. Function-Calling
+## 2. Function-Calling  
 
-This folder contains various demos showcasing the capabilities of Function Calling.
+This folder contains various demos showcasing the capabilities of Function Calling.  
 
 ### Function Calling Demos
 
