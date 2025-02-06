@@ -6,28 +6,54 @@ This repository contains projects, research, and educational resources focused o
 
 	Research papers and technical docs on LLMs.  
 
-## 1. Task-oriented Dialogue System  
+## 8. DeepSeek  
+Research and Experimental Studies on DeepSeek.
 
-   This demo implements a multi-turn, task-oriented intelligent customer service system using gpt-3.5-turbo API.    
-   
-## 2. Function-Calling  
+## 7. Fine-Tuning  
+Research and Experimental Studies on LLM Fine-Tuning.
 
-This folder contains various demos showcasing the capabilities of Function Calling.  
+## 6. Agent
+The contents of this folder include an overall introduction to the Agent, as well as an Agent project implemented from scratch.  
 
-### Function Calling Demos
+## 5. LangChian
 
-   - **`POI(Point of Interest)`**:
-       
-     This demo uses Amap's (Gaode Map) public API to retrieve information about hotels, restaurants, attractions, and other points of interest (POIs) near a specific location. It allows querying nearby POIs relative to a given point.
+#### The contents of the 'LangChain.ipynb' file located in the LangChain folder are detailed below:  
 
-   - **`SQL`**:
-       
-     This demo demonstrates how Function Calling handles sophisticated database tasks and generates SQL queries.
+### Core Components of LangChain
 
-   - **`Stream`**:
-       
-     This demo showcases examples of Function Calling in Stream mode.
+- #### Model I/O Wrapping
 
+**LLMs**: Large Language Models  
+**Chat Models**: Generally based on LLMs but restructured for conversational purposes  
+**PromptTemplate**: Templates for prompt creation  
+**OutputParser**: Parses the output from models  
+
+  - #### Data Connection Wrapping  
+
+**Document Loaders**: Loaders for various file formats  
+**Document Transformers**: Common operations on documents such as splitting, filtering, translating, and extracting metadata  
+**Text Embedding Models**: Convert text into vector representations, useful for tasks like retrieval  
+**Vectorstores**: Stores for vectors (used in retrieval tasks)  
+**Retrievers**: Tools for retrieving vectors from storage  
+**RAG Pipline with Langchain**
+
+- #### Memory Wrapping
+
+**Memory**: Not physical memory; it manages "context", "history", or "memory" from a text perspective
+
+
+- #### Architecture Wrapping
+
+**Chain**: Implements a single function or a series of sequential functions, LangChain Expression Language (LCEL)   
+**Agent**: Automatically plans and executes steps based on user input, selecting the necessary tools for each step to achieve the desired task  
+**Tools**: Functions for calling external functionalities, such as Google search, file I/O, Linux shell, etc.    
+**Toolkits**: A set of tools designed to operate specific software, such as a toolkit for managing databases or Gmail    
+
+- #### Callbacks  
+
+## 4. Semantic-Kernel
+
+The code examples in this folder, including **Prompt Templates**, **Nested Function Calls**, **RAG**, and **Using the Planner to Implement Agent Development**, demonstrate the features and basic usage of Semantic Kernel. They also provide an understanding of its built-in tools, illustrating how the SDK can be used to simplify the development of LLM-based applications.
 
 ## 3. RAG
 
@@ -74,48 +100,24 @@ This folder contains tree different **RAG (Retrieval-Augmented Generation)** pip
     
   ![Alt text](RAG/data/table_rag.png)
     
-## 4. Semantic-Kernel
+## 2. Function-Calling  
 
-The code examples in this folder, including **Prompt Templates**, **Nested Function Calls**, **RAG**, and **Using the Planner to Implement Agent Development**, demonstrate the features and basic usage of Semantic Kernel. They also provide an understanding of its built-in tools, illustrating how the SDK can be used to simplify the development of LLM-based applications.
+This folder contains various demos showcasing the capabilities of Function Calling.  
 
-## 5. LangChian
+### Function Calling Demos
 
-#### The contents of the 'LangChain.ipynb' file located in the LangChain folder are detailed below:  
+   - **`POI(Point of Interest)`**:
+       
+     This demo uses Amap's (Gaode Map) public API to retrieve information about hotels, restaurants, attractions, and other points of interest (POIs) near a specific location. It allows querying nearby POIs relative to a given point.
 
-### Core Components of LangChain
+   - **`SQL`**:
+       
+     This demo demonstrates how Function Calling handles sophisticated database tasks and generates SQL queries.
 
-- #### Model I/O Wrapping
+   - **`Stream`**:
+       
+     This demo showcases examples of Function Calling in Stream mode.
 
-**LLMs**: Large Language Models  
-**Chat Models**: Generally based on LLMs but restructured for conversational purposes  
-**PromptTemplate**: Templates for prompt creation  
-**OutputParser**: Parses the output from models  
+## 1. Task-oriented Dialogue System  
 
-  - #### Data Connection Wrapping  
-
-**Document Loaders**: Loaders for various file formats  
-**Document Transformers**: Common operations on documents such as splitting, filtering, translating, and extracting metadata  
-**Text Embedding Models**: Convert text into vector representations, useful for tasks like retrieval  
-**Vectorstores**: Stores for vectors (used in retrieval tasks)  
-**Retrievers**: Tools for retrieving vectors from storage  
-**RAG Pipline with Langchain**
-
-- #### Memory Wrapping
-
-**Memory**: Not physical memory; it manages "context", "history", or "memory" from a text perspective
-
-
-- #### Architecture Wrapping
-
-**Chain**: Implements a single function or a series of sequential functions, LangChain Expression Language (LCEL)   
-**Agent**: Automatically plans and executes steps based on user input, selecting the necessary tools for each step to achieve the desired task  
-**Tools**: Functions for calling external functionalities, such as Google search, file I/O, Linux shell, etc.    
-**Toolkits**: A set of tools designed to operate specific software, such as a toolkit for managing databases or Gmail    
-
-- #### Callbacks  
-
-## 6. Agent
-The contents of this folder include an overall introduction to the Agent, as well as an Agent project implemented from scratch.  
-
-## 7. Fine-Tuning  
-Research and Experimental Studies on LLM Fine-Tuning.
+   This demo implements a multi-turn, task-oriented intelligent customer service system using gpt-3.5-turbo API.    
