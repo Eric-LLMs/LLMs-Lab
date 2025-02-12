@@ -100,7 +100,7 @@ This folder contains tree different **RAG (Retrieval-Augmented Generation)** pip
     
   ![Alt text](RAG/data/table_rag.png)
     
-## 2. Function-Calling  
+## 2. Function-Calling
 
 This folder contains various demos showcasing the capabilities of Function Calling.  
 
@@ -117,6 +117,11 @@ This folder contains various demos showcasing the capabilities of Function Calli
    - **`Stream`**:
        
      This demo showcases examples of Function Calling in Stream mode.
+
+   - **`Text To Speech`**:
+       
+     text_to_speech in fold OpenAI
+
 
 ## 1. Task-oriented Dialogue System  
 
