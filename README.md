@@ -6,16 +6,16 @@ This repository contains projects, research, and educational resources focused o
 
 	Research papers and technical docs on LLMs.  
 
-## 8. DeepSeek  
+## 9. DeepSeek  
 Research and Experimental Studies on DeepSeek.
 
-## 7. Fine-Tuning  
+## 8. Fine-Tuning  
 Research and Experimental Studies on LLM Fine-Tuning.
 
-## 6. Agent
+## 7. Agent
 The contents of this folder include an overall introduction to the Agent, as well as an Agent project implemented from scratch.  
 
-## 5. LangChian
+## 6. LangChian
 
 #### The contents of the 'LangChain.ipynb' file located in the LangChain folder are detailed below:  
 
@@ -51,11 +51,11 @@ The contents of this folder include an overall introduction to the Agent, as wel
 
 - #### Callbacks  
 
-## 4. Semantic-Kernel
+## 5. Semantic-Kernel
 
 The code examples in this folder, including **Prompt Templates**, **Nested Function Calls**, **RAG**, and **Using the Planner to Implement Agent Development**, demonstrate the features and basic usage of Semantic Kernel. They also provide an understanding of its built-in tools, illustrating how the SDK can be used to simplify the development of LLM-based applications.
 
-## 3. RAG
+## 4. RAG
 
 This folder contains tree different **RAG (Retrieval-Augmented Generation)** pipelines. The first one is based on Elasticsearch (ES), the second one is based on a vector database, ChromaDB, and the last RAG Pipline show how to use data from tables in PDFs to implement RAG.  
   
@@ -100,7 +100,7 @@ This folder contains tree different **RAG (Retrieval-Augmented Generation)** pip
     
   ![Alt text](RAG/data/table_rag.png)
     
-## 2. Function-Calling
+## 3. Function-Calling
 
 This folder contains various demos showcasing the capabilities of Function Calling.  
 
@@ -118,11 +118,13 @@ This folder contains various demos showcasing the capabilities of Function Calli
        
      This demo showcases examples of Function Calling in Stream mode.
 
-   - **`Text To Speech`**:
-       
-     text_to_speech in fold OpenAI
 
-
-## 1. Task-oriented Dialogue System  
+## 2. Task-oriented Dialogue System  
 
    This demo implements a multi-turn, task-oriented intelligent customer service system using gpt-3.5-turbo API.    
+
+##  1.  OpenAI  
+  
+ - **`Text To Speech`**:
+     text_to_speech 
+
