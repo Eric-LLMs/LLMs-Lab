@@ -1,4 +1,4 @@
-# 2、llm-developing-assistantgpt  
+## 2. llm-developing-assistantgpt  
 
     llm-developing-assistantgpt with RAG,Gradio,Qdrant,OpenAI-GPT
 
