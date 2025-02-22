@@ -1,7 +1,7 @@
 # 介绍
 
-![img.png](assets%2Fimg.png)
-![img_1.png](assets%2Fimg_1.png)
+![img.png](llm-developing-assistantgpt%2Fassets%2Fimg.png)
+![img_1.png](llm-developing-assistantgpt%2Fassets%2Fimg_1.png)
 # 运行
 1、创建虚拟环境并安装依赖
    - conda create -n py38_AssistantGPT python=3.8
