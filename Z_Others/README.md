@@ -1,7 +1,8 @@
-## 2. llm-developing-assistantgpt  
+## 2. LLM-Developing-Assistantgpt  
 
-    llm-developing-assistantgpt with RAG,Gradio,Qdrant,OpenAI-GPT
+    llm-developing assistantgpt using RAG,Gradio,Qdrant,OpenAI-GPT  
 
 ## 1. Gradio
 
-	Study Gradio   
+	Study Gradio  
+	
