@@ -12,7 +12,7 @@ Research and Experimental Studies on DeepSeek.
 ## 8. [Fine-Tuning](Fine-Tuning/)   
 Research and Experimental Studies on LLM Fine-Tuning.
 
-## 7. [Agent](Agent/) 
+## 7. [Agent](Agent/Agent_Project/) 
 The contents of this folder include an overall introduction to the Agent, as well as an Agent project implemented from scratch.  
 
 ## 6. [LangChain](LangChain/)  
