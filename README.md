@@ -83,7 +83,7 @@ A modular, task-oriented AI Agent Framework engineered for autonomous execution:
   
 ## 6. 📂 [LangChain](LangChain/)  
 
-#### The contents of the 'LangChain.ipynb' file located in the LangChain folder are detailed below:  
+#### The contents of the **[Hands-on Implementation](LangChain/LangChain.ipynb)** located in the LangChain folder are detailed below:  
 
 ### Core Components of LangChain
 
@@ -119,7 +119,7 @@ A modular, task-oriented AI Agent Framework engineered for autonomous execution:
 
 ## 5. 📂 [Semantic-Kernel](Semantic-Kernel/)  
 
-The code examples in this folder, including **Prompt Templates**, **Nested Function Calls**, **RAG**, and **Using the Planner to Implement Agent Development**, demonstrate the features and basic usage of Semantic Kernel. They also provide an understanding of its built-in tools, illustrating how the SDK can be used to simplify the development of LLM-based applications.
+The **[Hands-on Implementation](Semantic-Kernel/semetic_kernel.ipynb)** in this folder, including **Prompt Templates**, **Nested Function Calls**, **RAG**, and **Using the Planner to Implement Agent Development**, demonstrate the features and basic usage of Semantic Kernel. They also provide an understanding of its built-in tools, illustrating how the SDK can be used to simplify the development of LLM-based applications.
 
 ## 4. 📂 [RAG](RAG/) 
 
