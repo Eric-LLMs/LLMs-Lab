@@ -123,7 +123,7 @@ The code examples in this folder, including **Prompt Templates**, **Nested Funct
 
 ## 4. 📂 [RAG](RAG/) 
 
-This folder contains tree different **RAG (Retrieval-Augmented Generation)** pipelines. The first one is based on Elasticsearch (ES), the second one is based on a vector database, ChromaDB, and the last RAG Pipline show how to use data from tables in PDFs to implement RAG.  
+This folder contains three different **RAG (Retrieval-Augmented Generation)** pipelines. The first one is based on Elasticsearch (ES), the second one is based on a vector database, ChromaDB, and the last RAG Pipline shows how to use data from tables in PDFs to implement RAG.  
   
 
 ### Pipelines
