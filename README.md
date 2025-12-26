@@ -25,9 +25,9 @@ This directory bridges the gap between theoretical architecture analysis and pra
 - **[Mistral 7B: Architecture & Domain Adaptation](Fine-Tuning/Mistral%207B%20Fine-Tuning.pdf)**: Fine-tuned Mistral 7B for a **Generative Recommendation** task.
   - Explored Mistral's specific architectural advantages, including **Sliding Window Attention (SWA)** for long contexts and **Grouped-Query Attention (GQA)** for inference speedup.
 
-- **[TRL (Transformer Reinforcement Learning)](Fine-Tuning/TRL_Train%20transformer%20language%20models%20with%20reinforcement%20learning_huggingface.pdf)**: Leveraged Hugging Face's `TRL` library to implement the alignment pipeline:
+- **[RLHF & TRL (Transformer Reinforcement Learning)](Fine-Tuning/TRL_Train%20transformer%20language%20models%20with%20reinforcement%20learning_huggingface.pdf)**: Leveraged Hugging Face's **TRL** library to implement the **RLHF (Reinforcement Learning from Human Feedback)** alignment pipeline:
   - **[SFT (Supervised Fine-Tuning)](Fine-Tuning/Instruct_data_pipline.ipynb)**: Instruction tuning with formatted datasets.
-  - **DPO (Direct Preference Optimization)**: Implemented DPO as a more stable and efficient alternative to PPO for aligning models with human preferences.
+  - **DPO (Direct Preference Optimization)**: Implemented DPO as a more stable and efficient alternative to **PPO (Proximal Policy Optimization)** for aligning models with human preferences.
   
 ## 7. 📂 [Agent](Agent/) 
 
