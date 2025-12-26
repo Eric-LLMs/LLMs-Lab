@@ -1,8 +1,8 @@
 # LLMs-Lab  
 
-This repository contains projects, research, and educational resources focused on Large Language Models (LLMs).  
+Full-stack LLM Engineering Lab. Features: Autonomous Agents (ReAct/AutoGPT) | Fine-Tuning Llama/Mistral (SFT/DPO) | Large Model Deployment (DeepSeek 671B / 2.5-bit) | Advanced RAG (Hybrid Search) | Function Calling (Stream/Text-to-SQL/External APIs) | Frameworks (LangChain, Semantic Kernel, OpenAI) | Daily SOTA Paper Tracking. From theory to 0-to-1.
   
-## 9. [DeepSeek](DeepSeek/)
+## 9. 📂 [DeepSeek](DeepSeek/)
 Focused on **Inference Optimization** and **Low-Bit Quantization** strategies for massive-scale MoE models (600B+ parameters).
 
 - **DeepSeek-R1 (671B) 2.51-bit Extreme Quantization Deployment**:
@@ -10,7 +10,7 @@ Focused on **Inference Optimization** and **Low-Bit Quantization** strategies fo
   - Analyzed official and community benchmarks for **1.58-bit vs 2.51-bit** configurations, ultimately selecting the 2.51-bit build (Q2_K_XL) to ensure superior reasoning stability on the H20 GPU cluster.
   - 📄 **[View Hands-on Deployment Log & Benchmarks (PDF)](DeepSeek/Hands-on%20deployment%20of%20671B%20model%20inference%20(2.51-bit%20quantization).pdf)**
   
-## 8. [Fine-Tuning](Fine-Tuning/)
+## 8. 📂 [Fine-Tuning](Fine-Tuning/)
 
 This directory bridges the gap between theoretical architecture analysis and practical, memory-efficient fine-tuning of state-of-the-art open-source models. It covers the full lifecycle from pre-training understanding to post-training alignment.
 
@@ -29,7 +29,7 @@ This directory bridges the gap between theoretical architecture analysis and pra
   - **[SFT (Supervised Fine-Tuning)](Fine-Tuning/Instruct_data_pipline.ipynb)**: Instruction tuning with formatted datasets.
   - **DPO (Direct Preference Optimization)**: Implemented DPO as a more stable and efficient alternative to PPO for aligning models with human preferences.
   
-## 7. [Agent](Agent/) 
+## 7. 📂 [Agent](Agent/) 
 
 This directory bridges the gap between Agentic theory and engineering practice, featuring both an interactive guide and a production-ready framework implemented from scratch (0 to 1).
 
@@ -81,7 +81,7 @@ A modular, task-oriented AI Agent Framework engineered for autonomous execution:
   │   └── requirements.txt    # Python dependencies
   └── index.ipynb             # Interactive Theory & Architecture Guide
   
-## 6. [LangChain](LangChain/)  
+## 6. 📂 [LangChain](LangChain/)  
 
 #### The contents of the 'LangChain.ipynb' file located in the LangChain folder are detailed below:  
 
@@ -117,11 +117,11 @@ A modular, task-oriented AI Agent Framework engineered for autonomous execution:
 
 - #### Callbacks  
 
-## 5. [Semantic-Kernel](Semantic-Kernel/)  
+## 5. 📂 [Semantic-Kernel](Semantic-Kernel/)  
 
 The code examples in this folder, including **Prompt Templates**, **Nested Function Calls**, **RAG**, and **Using the Planner to Implement Agent Development**, demonstrate the features and basic usage of Semantic Kernel. They also provide an understanding of its built-in tools, illustrating how the SDK can be used to simplify the development of LLM-based applications.
 
-## 4. [RAG](RAG/) 
+## 4. 📂 [RAG](RAG/) 
 
 This folder contains tree different **RAG (Retrieval-Augmented Generation)** pipelines. The first one is based on Elasticsearch (ES), the second one is based on a vector database, ChromaDB, and the last RAG Pipline show how to use data from tables in PDFs to implement RAG.  
   
@@ -166,7 +166,7 @@ This folder contains tree different **RAG (Retrieval-Augmented Generation)** pip
     
   ![Alt text](RAG/data/table_rag.png)
     
-## 3. [Function-Calling](Function-Calling/)  
+## 3. 📂 [Function-Calling](Function-Calling/)  
 
 This folder contains various demos showcasing the capabilities of Function Calling.  
 
@@ -185,17 +185,17 @@ This folder contains various demos showcasing the capabilities of Function Calli
      This demo showcases examples of Function Calling in Stream mode.
 
 
-## 2. [Task-oriented Dialogue System](Task-oriented Dialogue System/)    
+## 2. 📂 [Task-oriented Dialogue System](Task-oriented Dialogue System/)    
 
    This demo implements a multi-turn, task-oriented intelligent customer service system using gpt-3.5-turbo API.    
 
-##  1. [OpenAI](OpenAI/)    
+##  1. 📂 [OpenAI](OpenAI/)    
   
  - **`Text To Speech`**:
      text_to_speech 
   
-## 0. [Docs](Docs/)    
+## 0. 📂 [Docs](Docs/)    
 
 	Research papers and technical docs on LLMs.
   
-##  [Z_Others](Z_Others/) 
+##  📂 [Z_Others](Z_Others/) 
