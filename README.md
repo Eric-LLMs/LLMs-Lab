@@ -6,28 +6,28 @@ This repository contains projects, research, and educational resources focused o
 Focused on **Inference Optimization** and **Low-Bit Quantization** strategies for massive-scale MoE models (600B+ parameters).
 
 - **DeepSeek-R1 (671B) 2.51-bit Extreme Quantization Deployment**:
-  - Implemented **Unsloth dynamic quantization** to compress the 671B MoE model to **2.51-bit** (and tested 1.58-bit), reducing memory footprint by **~80%** (from 720GB to ~212GB).
-  - Deployed the quantized model locally using **Ollama** and **llama.cpp** on an H20 GPU cluster, benchmarking the trade-offs between quantization precision (IQ1_S vs Q2_K_XL) and inference stability.
+  - Deployed the **2.51-bit quantized version** (via Unsloth) of the 671B MoE model, achieving an **~80% reduction** in memory footprint (from 720GB to ~212GB).
+  - Analyzed official and community benchmarks for **1.58-bit vs 2.51-bit** configurations, ultimately selecting the 2.51-bit build (Q2_K_XL) to ensure superior reasoning stability on the H20 GPU cluster.
+  - 📄 **[View Hands-on Deployment Log & Benchmarks (PDF)](DeepSeek/Hands-on%20deployment%20of%20671B%20model%20inference%20(2.51-bit%20quantization).pdf)**
   
-## 8. [Fine-Tuning](Fine-Tuning/)   
+## 8. [Fine-Tuning](Fine-Tuning/)
 
 This directory bridges the gap between theoretical architecture analysis and practical, memory-efficient fine-tuning of state-of-the-art open-source models. It covers the full lifecycle from pre-training understanding to post-training alignment.
 
 ### Key Modules
 
-- **Transformer Source Code Analysis** A deep dive into the vanilla Transformer architecture, focusing on a line-by-line implementation analysis of **Self-Attention mechanisms**, Multi-Head Attention, and Layer Normalization to understand the foundational building blocks.
+- **[Transformer Source Code Analysis](Fine-Tuning/AnnotatedTransformer.ipynb)**: A deep dive into the vanilla Transformer architecture, focusing on a line-by-line implementation analysis of **Self-Attention mechanisms**, Multi-Head Attention, and Layer Normalization to understand the foundational building blocks.
 
-- **Llama Series: QLoRA & Quantization** Implementation of **QLoRA (Quantized Low-Rank Adapters)** to fine-tune Llama 2 (7B/13B) on consumer hardware.  
-  - Analyzed **4-bit NormalFloat (NF4)** quantization and Double Quantization for memory optimization.  
+- **[Llama Series: QLoRA & Quantization](Fine-Tuning/Llama%20%20Fine-Tuning%20&%20Quantization%20&%20Running%20&%20Instroducntion%20&%20Deployment.pdf)**: Implementation of **[QLoRA](Fine-Tuning/Lora%20code.ipynb)** (Quantized Low-Rank Adapters) to fine-tune Llama 2 (7B/13B) on consumer hardware.
+  - Analyzed **4-bit NormalFloat (NF4)** quantization and Double Quantization for memory optimization.
   - Covered the full pipeline: Data Prep → Fine-tuning → Merging Adapters → Quantization → Deployment.
 
-- **Mistral 7B: Architecture & Domain Adaptation** Fine-tuned Mistral 7B for a **Generative Recommendation** task.  
-  - Explored Mistral's specific architectural advantages, including **Sliding Window Attention (SWA)** for long contexts and **Grouped-Query Attention (GQA)** for inference speedup.  
+- **[Mistral 7B: Architecture & Domain Adaptation](Fine-Tuning/Mistral%207B%20Fine-Tuning.pdf)**: Fine-tuned Mistral 7B for a **Generative Recommendation** task.
+  - Explored Mistral's specific architectural advantages, including **Sliding Window Attention (SWA)** for long contexts and **Grouped-Query Attention (GQA)** for inference speedup.
 
-- **TRL (Transformer Reinforcement Learning)** Leveraged Hugging Face's `TRL` library to implement the alignment pipeline:  
-  - **SFT (Supervised Fine-Tuning)**: Instruction tuning with formatted datasets.  
+- **[TRL (Transformer Reinforcement Learning)](Fine-Tuning/TRL_Train%20transformer%20language%20models%20with%20reinforcement%20learning_huggingface.pdf)**: Leveraged Hugging Face's `TRL` library to implement the alignment pipeline:
+  - **[SFT (Supervised Fine-Tuning)](Fine-Tuning/Instruct_data_pipline.ipynb)**: Instruction tuning with formatted datasets.
   - **DPO (Direct Preference Optimization)**: Implemented DPO as a more stable and efficient alternative to PPO for aligning models with human preferences.
-  
   
 ## 7. [Agent](Agent/) 
 
