@@ -10,7 +10,24 @@ This repository contains projects, research, and educational resources focused o
 Research and Experimental Studies on DeepSeek.
 
 ## 8. [Fine-Tuning](Fine-Tuning/)   
-Research and Experimental Studies on LLM Fine-Tuning.
+
+This directory bridges the gap between theoretical architecture analysis and practical, memory-efficient fine-tuning of state-of-the-art open-source models. It covers the full lifecycle from pre-training understanding to post-training alignment.
+
+### Key Modules
+
+- **Transformer Source Code Analysis** A deep dive into the vanilla Transformer architecture, focusing on a line-by-line implementation analysis of **Self-Attention mechanisms**, Multi-Head Attention, and Layer Normalization to understand the foundational building blocks.
+
+- **Llama Series: QLoRA & Quantization** Implementation of **QLoRA (Quantized Low-Rank Adapters)** to fine-tune Llama 2 (7B/13B) on consumer hardware.  
+  - Analyzed **4-bit NormalFloat (NF4)** quantization and Double Quantization for memory optimization.  
+  - Covered the full pipeline: Data Prep → Fine-tuning → Merging Adapters → Quantization → Deployment.
+
+- **Mistral 7B: Architecture & Domain Adaptation** Fine-tuned Mistral 7B for a **Generative Recommendation** task.  
+  - Explored Mistral's specific architectural advantages, including **Sliding Window Attention (SWA)** for long contexts and **Grouped-Query Attention (GQA)** for inference speedup.  
+
+- **TRL (Transformer Reinforcement Learning)** Leveraged Hugging Face's `TRL` library to implement the alignment pipeline:  
+  - **SFT (Supervised Fine-Tuning)**: Instruction tuning with formatted datasets.  
+  - **DPO (Direct Preference Optimization)**: Implemented DPO as a more stable and efficient alternative to PPO for aligning models with human preferences.
+
 
 ## 7. [Agent](Agent/Agent_Project/) 
 The contents of this folder include an overall introduction to the Agent, as well as an Agent project implemented from scratch.  
