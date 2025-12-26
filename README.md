@@ -1,14 +1,14 @@
 # LLMs-Lab  
 
 This repository contains projects, research, and educational resources focused on Large Language Models (LLMs).  
+  
+## 9. [DeepSeek](DeepSeek/)
+Focused on **Inference Optimization** and **Low-Bit Quantization** strategies for massive-scale MoE models (600B+ parameters).
 
-## 0. [Docs](Docs/)    
-
-	Research papers and technical docs on LLMs.  
-
-## 9. [DeepSeek](DeepSeek/)   
-Research and Experimental Studies on DeepSeek.
-
+- **DeepSeek-R1 (671B) 2.51-bit Extreme Quantization Deployment**:
+  - Implemented **Unsloth dynamic quantization** to compress the 671B MoE model to **2.51-bit** (and tested 1.58-bit), reducing memory footprint by **~80%** (from 720GB to ~212GB).
+  - Deployed the quantized model locally using **Ollama** and **llama.cpp** on an H20 GPU cluster, benchmarking the trade-offs between quantization precision (IQ1_S vs Q2_K_XL) and inference stability.
+  
 ## 8. [Fine-Tuning](Fine-Tuning/)   
 
 This directory bridges the gap between theoretical architecture analysis and practical, memory-efficient fine-tuning of state-of-the-art open-source models. It covers the full lifecycle from pre-training understanding to post-training alignment.
@@ -81,8 +81,6 @@ A modular, task-oriented AI Agent Framework engineered for autonomous execution:
   │   └── requirements.txt    # Python dependencies
   └── index.ipynb             # Interactive Theory & Architecture Guide
   
-  
-
 ## 6. [LangChain](LangChain/)  
 
 #### The contents of the 'LangChain.ipynb' file located in the LangChain folder are detailed below:  
@@ -195,5 +193,9 @@ This folder contains various demos showcasing the capabilities of Function Calli
   
  - **`Text To Speech`**:
      text_to_speech 
+  
+## 0. [Docs](Docs/)    
 
+	Research papers and technical docs on LLMs.
+  
 ##  [Z_Others](Z_Others/) 
