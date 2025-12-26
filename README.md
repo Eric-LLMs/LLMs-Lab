@@ -27,25 +27,7 @@ This directory bridges the gap between theoretical architecture analysis and pra
 - **TRL (Transformer Reinforcement Learning)** Leveraged Hugging Face's `TRL` library to implement the alignment pipeline:  
   - **SFT (Supervised Fine-Tuning)**: Instruction tuning with formatted datasets.  
   - **DPO (Direct Preference Optimization)**: Implemented DPO as a more stable and efficient alternative to PPO for aligning models with human preferences.
-
   
-  
-## 7. [Agent](Agent/) 
-
-This directory bridges the gap between Agentic theory and engineering practice, featuring both an interactive guide and a production-ready framework implemented from scratch (0 to 1).
-
-### 📘 [Guide & Theory (index.ipynb)](Agent/index.ipynb)
-A comprehensive interactive notebook that documents the design philosophy:
-- **Agent Design Paradigms**: Explores core concepts like Reflection, Tool Use, and Planning (referenced from Andrew Ng's framework).
-- **System Architecture**: Visualizes the **Core Module Flowchart** and data flow between Memory, Tools, and the Planning engine.
-- **Use Case Demonstrations**: Step-by-step walkthroughs of real-world scenarios (e.g., Sales Analysis, Automated Reporting).
-
-### 🛠️ [Implementation (Agent_Project)](Agent/Agent_Project/)
-A modular, task-oriented AI Agent Framework engineered for autonomous execution:
-- **Decoupled Architecture**: Separates **Core Logic (AutoGPT)**, **Execution (Tools)**, and **State Management (Memory)** for high extensibility.
-- **ReAct Reasoning Engine**: Implements a custom `Thought → Plan → Action → Observation` loop to handle **multi-step goal decomposition**.
-- **Tool Orchestration**: Integrated functional tools for non-deterministic tasks:
-  Includes custom tools for deep data analysis (Excel processing via Pandas), automated communication via email, PDF-based QA interrogation (FileQATool), requirements-driven document generation (WriterTool), and dynamic script-based auditing of structured files using custom heuristics and thresholds (PythonTool).
   
 ## 7. [Agent](Agent/) 
 
@@ -69,33 +51,36 @@ A modular, task-oriented AI Agent Framework engineered for autonomous execution:
   - **Content Generation (`WriterTool`)**: AI-driven formal document generation based on requirements.
   - **RAG QA (`FileQATool`)**: PDF/Docx retrieval and interrogation.
 
-### 📂 Project Structure
-```text
-Agent
-├── Agent_Project
-│   ├── Agent               # Core Reasoning Logic (The Brain)
-│   │   ├── Action.py       # Defines Action Pydantic models
-│   │   ├── AutoGPT.py      # Implements the ReAct (Thought-Plan-Action) Loop
-│   │   └── ...
-│   ├── Tools               # Functional Capabilities (The Hands)
-│   │   ├── EmailTool.py    # Automated Email Sender
-│   │   ├── ExcelTool.py    # Data Inspection via Pandas
-│   │   ├── FileQATool.py   # PDF/Doc Retrieval QA (RAG)
-│   │   ├── FileTool.py     # File System Navigation
-│   │   ├── PythonTool.py   # Code Interpreter & Sandbox
-│   │   ├── WriterTool.py   # AI Document Generator
-│   │   └── Tools.py        # Tool Registry & Definitions
-│   ├── Utils               # Helper functions (Logging, Callbacks)
-│   ├── data                # Demo Data (Sales Records, Supplier PDFs)
-│   ├── prompts             # Prompt Engineering Templates
-│   │   ├── main
-│   │   │   ├── main.txt        # System Prompt: Defines ReAct logic & constraints
-│   │   │   └── final_step.txt  # Summarization Prompt
-│   │   └── tools
-│   │       └── excel_analyser.txt # Code Gen Constraints for PythonTool
-│   └── main.py             # Entry point
-└── index.ipynb             # Interactive Theory & Architecture Guide 
-```
+- **📂 Project Structure**:
+  ```text
+  Agent
+  ├── Agent_Project
+  │   ├── Agent               # Core Reasoning Logic (The Brain)
+  │   │   ├── Action.py       # Defines Action Pydantic models
+  │   │   ├── AutoGPT.py      # Implements the ReAct (Thought-Plan-Action) Loop
+  │   │   └── ...
+  │   ├── Tools               # Functional Capabilities (The Hands)
+  │   │   ├── EmailTool.py    # Automated Email Sender
+  │   │   ├── ExcelTool.py    # Data Inspection via Pandas
+  │   │   ├── FileQATool.py   # PDF/Doc Retrieval QA (RAG)
+  │   │   ├── FileTool.py     # File System Navigation
+  │   │   ├── PythonTool.py   # Code Interpreter & Sandbox
+  │   │   ├── WriterTool.py   # AI Document Generator
+  │   │   └── Tools.py        # Tool Registry & Definitions
+  │   ├── Utils               # Helper functions (Logging, Callbacks)
+  │   ├── data                # Demo Data (Sales Records, Supplier PDFs)
+  │   ├── prompts             # Prompt Engineering Templates
+  │   │   ├── main
+  │   │   │   ├── main.txt        # System Prompt: Constraints & Logic
+  │   │   │   └── final_step.txt  # Summarization Prompt
+  │   │   └── tools
+  │   │       └── excel_analyser.txt # Code Gen Constraints for PythonTool
+  │   ├── .env                # Environment variables (API Keys)
+  │   ├── examples.txt        # Few-shot prompting examples
+  │   ├── main.py             # Entry point / Execution script
+  │   └── requirements.txt    # Python dependencies
+  └── index.ipynb             # Interactive Theory & Architecture Guide
+  
   
 
 ## 6. [LangChain](LangChain/)  
