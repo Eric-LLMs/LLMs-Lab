@@ -1,6 +1,6 @@
 # LLM Systems Trade-offs — Technical Deep-Dive
 
-> Companion to the [LLM Technology Landscape & Evolution](README.md) knowledge graph. Each section unpacks one architectural trade-off: the engineering rationale, the mechanism, and the open questions driving current research.
+> Companion to the [LLM Technology Landscape & Evolution](README.md) knowledge graph. Each section unpacks one architectural trade-off — the engineering rationale, the mechanism, and the open questions driving current research.
 
 ## Overview
 

@@ -852,6 +852,8 @@
   📄 [papers/Agentic-World-Modeling-Foundations-Capabilities-Laws-and-Beyond.pdf](papers/Agentic-World-Modeling-Foundations-Capabilities-Laws-and-Beyond.pdf)
 - [ ] **Agentic Context Engineering: Evolving Contexts for Self-Improving**
   📄 [papers/Agentic-Context-Engineering-Evolving-Contextsfor-Self-Improving.pdf](papers/Agentic-Context-Engineering-Evolving-Contextsfor-Self-Improving.pdf)
+- [ ] **Agentic Abstention: Do Agents Know When to Stop Instead of Act**
+  📄 [papers/Agentic-Abstention-Do-Agents-Know-When-to-Stop-Instead-of-Act.pdf](papers/Agentic-Abstention-Do-Agents-Know-When-to-Stop-Instead-of-Act.pdf)
 
 ### 12.6 Agent Training and RL
 - [ ] **The Landscape of Agentic Reinforcement Learning for LLMs: A Survey**
