@@ -329,13 +329,13 @@
 - [ ] **The Geometry of Consolidation**
   📄 [papers/The-Geometry-of-Consolidation.pdf](papers/The-Geometry-of-Consolidation.pdf)
 - [ ] **Why Diffusion Models Don't Memorize: The Role of Implicit Dynamical Regularization in Training**
-  📄 [papers/Why-Diffusion-Models-Don’t-Memorize-The-Role-of-Implicit-Dynamical-Regularization-in-Training.pdf](papers/Why-Diffusion-Models-Don’t-Memorize-The-Role-of-Implicit-Dynamical-Regularization-in-Training.pdf)
+  📄 [papers/Why-Diffusion-Models-Dont-Memorize-The-Role-of-Implicit-Dynamical-Regularization-in-Training.pdf](papers/Why-Diffusion-Models-Dont-Memorize-The-Role-of-Implicit-Dynamical-Regularization-in-Training.pdf)
 - [ ] **Logical Phase Transitions: Understanding Collapse in LLM Logical Reasoning**
   📄 [papers/Logical-Phase-Transitions-Understanding-Collapse-in-LLM-Logical-Reasoning.pdf](papers/Logical-Phase-Transitions-Understanding-Collapse-in-LLM-Logical-Reasoning.pdf)
 
 ### 3.3 Training Efficiency
 - [ ] **Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open Language Foundation**
-  📄 [papers/EveryActivation-Boosted-Scaling-General-Reasoner-to-1-Trillion-Open-Language-Foundation.pdf](papers/EveryActivation-Boosted-Scaling-General-Reasoner-to-1-Trillion-Open-Language-Foundation.pdf)
+  📄 [papers/Every-Activation-Boosted-Scaling-General-Reasoner-to-1-Trillion-Open-Language-Foundation.pdf](papers/Every-Activation-Boosted-Scaling-General-Reasoner-to-1-Trillion-Open-Language-Foundation.pdf)
 - [ ] **Efficient and Effective Text Encoding for Chinese LLaMA and Alpaca**
   📄 [papers/Efficient-and-Effective-Text-Encoding-for-Chinese-LLaMA-and-Alpaca.pdf](papers/Efficient-and-Effective-Text-Encoding-for-Chinese-LLaMA-and-Alpaca.pdf)
 - [ ] **Training-Inference Consistent Segmented Execution for Long-Context LLMs**
@@ -752,8 +752,6 @@
   📄 [papers/Towards-Edge-General-Intelligence-Knowledge-Distillation-for-Mobile-Agentic-AI.pdf](papers/Towards-Edge-General-Intelligence-Knowledge-Distillation-for-Mobile-Agentic-AI.pdf)
 - [ ] **Towards a Science of Scaling Agent System**
   📄 [papers/Towards-a-Science-of-Scaling-Agent-System.pdf](papers/Towards-a-Science-of-Scaling-Agent-System.pdf)
-- [ ] **Why Do Multi-Agent LLM Systems Fail**
-  📄 [papers/WhyDoMulti-Agent-LLM-Systems-Fail.pdf](papers/WhyDoMulti-Agent-LLM-Systems-Fail.pdf)
 - [ ] **rStar2 Agent Agentic Reasoning Technical Report**
   📄 [papers/rStar2-Agent-Agentic-Reasoning-Technical-Report.pdf](papers/rStar2-Agent-Agentic-Reasoning-Technical-Report.pdf)
 
