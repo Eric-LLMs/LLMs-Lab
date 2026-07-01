@@ -178,23 +178,23 @@
 
 ### 1.1 Classic Architecture
 - [ ] **Attention Is All You Need** Vaswani et al. 2017 — The origin.
-  📄 [papers/Attention Is All You Need.pdf](papers/Attention-Is-All-You-Need.pdf)
+  📄 [papers/Attention-Is-All-You-Need.pdf](papers/Attention-Is-All-You-Need.pdf)
   - → BERT GPT-1 GPT-2
   - → FlashAttention Section 4.1
 - [ ] **BERT: Pre-training of Deep Bidirectional Transformers** Devlin et al. 2018
-  📄 [papers/BERT Pre-training of Deep Bidirectional Transformers for Language Understanding.pdf](papers/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding.pdf)
+  📄 [papers/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding.pdf](papers/BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding.pdf)
 - [ ] **ALBERT: A Lite BERT** Lan et al. 2019
-  📄 [papers/ALBERT A Lite BERT for Self-supervised Learning of Language Representations.pdf](papers/ALBERT-A-Lite-BERT-for-Self-supervised-Learning-of-Language-Representations.pdf)
+  📄 [papers/ALBERT-A-Lite-BERT-for-Self-supervised-Learning-of-Language-Representations.pdf](papers/ALBERT-A-Lite-BERT-for-Self-supervised-Learning-of-Language-Representations.pdf)
 - [ ] **GPT-1: Improving Language Understanding by Generative Pre-Training** Radford et al. 2018
-  📄 [papers/GPT1 Improving Language Understanding by Generative Pre-Training.pdf](papers/GPT1-Improving-Language-Understanding-by-Generative-Pre-Training.pdf)
+  📄 [papers/GPT1-Improving-Language-Understanding-by-Generative-Pre-Training.pdf](papers/GPT1-Improving-Language-Understanding-by-Generative-Pre-Training.pdf)
 - [ ] **GPT-2: Language Models are Unsupervised Multitask Learners** Radford et al. 2019
-  📄 [papers/GPT2 language_models_are_unsupervised_multitask_learners.pdf](papers/GPT2-language-models-are-unsupervised-multitask-learners.pdf)
+  📄 [papers/GPT2-language-models-are-unsupervised-multitask-learners.pdf](papers/GPT2-language-models-are-unsupervised-multitask-learners.pdf)
 - [ ] **GPT-3: Language Models are Few-Shot Learners** Brown et al. 2020
-  📄 [papers/GPT3 Language Models are Few-Shot Learners.pdf](papers/GPT3-Language-Models-are-Few-Shot-Learners.pdf)
+  📄 [papers/GPT3-Language-Models-are-Few-Shot-Learners.pdf](papers/GPT3-Language-Models-are-Few-Shot-Learners.pdf)
 - [ ] **GPT-4 Technical Report** OpenAI 2023
-  📄 [papers/GPT-4 Technical Report.pdf](papers/GPT-4-Technical-Report.pdf)
+  📄 [papers/GPT-4-Technical-Report.pdf](papers/GPT-4-Technical-Report.pdf)
 - [ ] **GPT-4o System Card** OpenAI 2024
-  📄 [papers/GPT-4o System Card.pdf](papers/GPT-4o-System-Card.pdf)
+  📄 [papers/GPT-4o-System-Card.pdf](papers/GPT-4o-System-Card.pdf)
 - [ ] **Transformers and LLM** course slides
   📄 [papers/Transformers-and-LLM.pdf](papers/Transformers-and-LLM.pdf)
 
@@ -236,29 +236,29 @@
 - [ ] **GPT-4 Technical Report** → Section 1.1
 - [ ] **GPT-4o System Card** → Section 1.1
 - [ ] **InstructGPT** → RLHF Section 6
-  📄 [papers/InstructGPT Training language models to follow instructions with human feedback.pdf](papers/InstructGPT-Training-language-models-to-follow-instructions-with-human-feedback.pdf)
+  📄 [papers/InstructGPT-Training-language-models-to-follow-instructions-with-human-feedback.pdf](papers/InstructGPT-Training-language-models-to-follow-instructions-with-human-feedback.pdf)
 
 ### 2.2 Meta Llama Family
 - [ ] **LLaMA: Open and Efficient Foundation Language Models** Touvron et al. 2023
-  📄 [papers/LLaMA  Open and Efficient Foundation Language Models.pdf](papers/LLaMA-Open-and-Efficient-Foundation-Language-Models.pdf)
+  📄 [papers/LLaMA-Open-and-Efficient-Foundation-Language-Models.pdf](papers/LLaMA-Open-and-Efficient-Foundation-Language-Models.pdf)
 - [ ] **Llama 2: Open Foundation and Fine-Tuned Chat Models**
-  📄 [papers/Llama 2  Open Foundation and Fine-Tuned Chat Models.pdf](papers/Llama-2-Open-Foundation-and-Fine-Tuned-Chat-Models.pdf)
+  📄 [papers/Llama-2-Open-Foundation-and-Fine-Tuned-Chat-Models.pdf](papers/Llama-2-Open-Foundation-and-Fine-Tuned-Chat-Models.pdf)
 - [ ] **THE UNIQUENESS OF LLAMA3-70B SERIES**
-  📄 [papers/THE UNIQUENESS OF LLAMA3-70B SERIES WITH.pdf](papers/THE-UNIQUENESS-OF-LLAMA3-70B-SERIES-WITH.pdf)
+  📄 [papers/THE-UNIQUENESS-OF-LLAMA3-70B-SERIES-WITH.pdf](papers/THE-UNIQUENESS-OF-LLAMA3-70B-SERIES-WITH.pdf)
 
 ### 2.3 DeepSeek
 - [ ] **DeepSeek LLM: Scaling Open-Source Language Models with Longtermism**
-  📄 [papers/DeepSeek LLM Scaling Open-Source Language Models with Longtermism.pdf](papers/DeepSeek-LLM-Scaling-Open-Source-Language-Models-with-Longtermism.pdf)
+  📄 [papers/DeepSeek-LLM-Scaling-Open-Source-Language-Models-with-Longtermism.pdf](papers/DeepSeek-LLM-Scaling-Open-Source-Language-Models-with-Longtermism.pdf)
 - [ ] **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning**
-  📄 [papers/DeepSeek-R1 Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.pdf](papers/DeepSeek-R1-Incentivizing-Reasoning-Capability-in-LLMs-via-Reinforcement-Learning.pdf)
+  📄 [papers/DeepSeek-R1-Incentivizing-Reasoning-Capability-in-LLMs-via-Reinforcement-Learning.pdf](papers/DeepSeek-R1-Incentivizing-Reasoning-Capability-in-LLMs-via-Reinforcement-Learning.pdf)
   - ← GRPO Section 6.3
   - → DeepSeek-V3.2
 - [ ] **DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models**
-  📄 [papers/DeepSeek-V3.2 Pushing the Frontier of Open Large Language Models.pdf](papers/DeepSeek-V3.2-Pushing-the-Frontier-of-Open-Large-Language-Models.pdf)
+  📄 [papers/DeepSeek-V3.2-Pushing-the-Frontier-of-Open-Large-Language-Models.pdf](papers/DeepSeek-V3.2-Pushing-the-Frontier-of-Open-Large-Language-Models.pdf)
 - [ ] **DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence**
-  📄 [papers/DeepSeek-V4 Towards Highly Efficient Million-Token Context Intelligence.pdf](papers/DeepSeek-V4-Towards-Highly-Efficient-Million-Token-Context-Intelligence.pdf)
+  📄 [papers/DeepSeek-V4-Towards-Highly-Efficient-Million-Token-Context-Intelligence.pdf](papers/DeepSeek-V4-Towards-Highly-Efficient-Million-Token-Context-Intelligence.pdf)
 - [ ] **A Review of DeepSeek Models: Key Innovative Techniques**
-  📄 [papers/A Review of DeepSeek Models Key Innovative Techniques.pdf](papers/A-Review-of-DeepSeek-Models-Key-Innovative-Techniques.pdf)
+  📄 [papers/A-Review-of-DeepSeek-Models-Key-Innovative-Techniques.pdf](papers/A-Review-of-DeepSeek-Models-Key-Innovative-Techniques.pdf)
 
 ### 2.4 Surveys and Landscape
 - [ ] **Large Language Models: A Survey**
@@ -270,11 +270,11 @@
 
 ### 2.5 Other Frontier Models
 - [ ] **Mistral 7B**
-  📄 [papers/Mistral 7B.pdf](papers/Mistral-7B.pdf)
+  📄 [papers/Mistral-7B.pdf](papers/Mistral-7B.pdf)
 - [ ] **Baichuan 2: Open Large-scale Language Models**
-  📄 [papers/Baichuan 2: Open Large-scale Language Models.pdf](papers/Baichuan-2-Open-Large-scale-Language-Models.pdf)
+  📄 [papers/Baichuan-2-Open-Large-scale-Language-Models.pdf](papers/Baichuan-2-Open-Large-scale-Language-Models.pdf)
 - [ ] **Gemini 2.5: Pushing the Frontier with Advanced Reasoning**
-  📄 [papers/Gemini 2.5 Pushing the Frontier with Advanced Reasoning Multimodality Long Context and Next Generation Agentic Capabilities.pdf](papers/Gemini-2.5-Pushing-the-Frontier-with-Advanced-Reasoning-Multimodality-Long-Context-and-Next-Generation-Agentic-Capabilities.pdf)
+  📄 [papers/Gemini-2.5-Pushing-the-Frontier-with-Advanced-Reasoning-Multimodality-Long-Context-and-Next-Generation-Agentic-Capabilities.pdf](papers/Gemini-2.5-Pushing-the-Frontier-with-Advanced-Reasoning-Multimodality-Long-Context-and-Next-Generation-Agentic-Capabilities.pdf)
 - [ ] **Qwen3-Coder-Next Technical Report**
   📄 [papers/Qwen3-Coder-Next-Technical-Report.pdf](papers/Qwen3-Coder-Next-Technical-Report.pdf)
 - [ ] **Qwen3.5-Omni Technical Report**
@@ -286,13 +286,13 @@
 - [ ] **GLM-4.5 Agentic Reasoning and Coding ARC Foundation Models**
   📄 [papers/GLM-4.5-Agentic-Reasoning-and-Coding-ARC-Foundation-Models.pdf](papers/GLM-4.5-Agentic-Reasoning-and-Coding-ARC-Foundation-Models.pdf)
 - [ ] **GLM-5: from Vibe Coding to Agentic Engineering**
-  📄 [papers/GLM-5: from Vibe Coding to Agentic Engineering.pdf](papers/GLM-5-from-Vibe-Coding-to-Agentic-Engineering.pdf)
+  📄 [papers/GLM-5-from-Vibe-Coding-to-Agentic-Engineering.pdf](papers/GLM-5-from-Vibe-Coding-to-Agentic-Engineering.pdf)
 - [ ] **GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents**
   📄 [papers/GLM-5V-Turbo-Toward-a-Native-Foundation-Model-for-Multimodal-Agents.pdf](papers/GLM-5V-Turbo-Toward-a-Native-Foundation-Model-for-Multimodal-Agents.pdf)
 - [ ] **LongCat-Flash-Thinking-2601 Technical Report**
   📄 [papers/LongCat-Flash-Thinking-2601-Technical-Report.pdf](papers/LongCat-Flash-Thinking-2601-Technical-Report.pdf)
 - [ ] **Intern-S1: A Scientific Multimodal Foundation Model**
-  📄 [papers/Intern-S1: A Scientific Multimodal Foundation Model.pdf](papers/Intern-S1-A-Scientific-Multimodal-Foundation-Model.pdf)
+  📄 [papers/Intern-S1-A-Scientific-Multimodal-Foundation-Model.pdf](papers/Intern-S1-A-Scientific-Multimodal-Foundation-Model.pdf)
 
 ### 2.5 Survey of Models
 - [ ] **A Survey of Large Language Models**
@@ -304,7 +304,7 @@
 - [ ] **A Survey of Small Language Models**
   📄 [papers/A-Survey-of-Small-Language-Models.pdf](papers/A-Survey-of-Small-Language-Models.pdf)
 - [ ] **Foundations of Large Language Models**
-  📄 [papers/Foundations of Large Language Models.pdf](papers/A-Survey-of-Scientific-Large-Language-Models-From-Data-Foundations-to-Agent-Frontiers.pdf)
+  📄 [papers/A-Survey-of-Scientific-Large-Language-Models-From-Data-Foundations-to-Agent-Frontiers.pdf](papers/A-Survey-of-Scientific-Large-Language-Models-From-Data-Foundations-to-Agent-Frontiers.pdf)
 - [ ] **LLMs4All: A Systematic Review of Large Language Models Across Academic Disciplines**
   📄 [papers/LLMs4All-A-Systematic-Review-of-Large-Language-Models-Across-Academic-Disciplines.pdf](papers/LLMs4All-A-Systematic-Review-of-Large-Language-Models-Across-Academic-Disciplines.pdf)
 
@@ -347,12 +347,12 @@
 
 ### 4.1 GPU Kernels and Acceleration
 - [ ] **FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness** Dao et al. 2022
-  📄 [papers/FlashAttention Fast and Memory-Efficient Exact Attention with IO-Awareness.pdf](papers/FlashAttention-Fast-and-Memory-Efficient-Exact-Attention-with-IO-Awareness.pdf)
+  📄 [papers/FlashAttention-Fast-and-Memory-Efficient-Exact-Attention-with-IO-Awareness.pdf](papers/FlashAttention-Fast-and-Memory-Efficient-Exact-Attention-with-IO-Awareness.pdf)
   - → FlashAttention-2 FlashAttention-3
 - [ ] **FlashAttention alt version**
-  📄 [papers/FlashAttention Fast and Memory-Efficient Exact Attention.pdf](papers/FlashAttention-Fast-and-Memory-Efficient-Exact-Attention-with-IO-Awareness.pdf)
+  📄 [papers/FlashAttention-Fast-and-Memory-Efficient-Exact-Attention-with-IO-Awareness.pdf](papers/FlashAttention-Fast-and-Memory-Efficient-Exact-Attention-with-IO-Awareness.pdf)
 - [ ] **AccelOpt: A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization**
-  📄 [papers/AccelOpt A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization.pdf](papers/AccelOpt-A-Self-Improving-LLM-Agentic-System-for-AI-Accelerator-Kernel-Optimization.pdf)
+  📄 [papers/AccelOpt-A-Self-Improving-LLM-Agentic-System-for-AI-Accelerator-Kernel-Optimization.pdf](papers/AccelOpt-A-Self-Improving-LLM-Agentic-System-for-AI-Accelerator-Kernel-Optimization.pdf)
 
 ### 4.2 Distributed Training
 - [ ] **Distributed-Training-I.pdf** course slides
@@ -374,15 +374,15 @@
 
 ### 5.1 Quantization Techniques
 - [ ] **AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration**
-  📄 [papers/AWQ Activation-aware Weight Quantization for LLM Compression and Acceleration.pdf](papers/AWQ-Activation-aware-Weight-Quantization-for-LLM-Compression-and-Acceleration.pdf)
+  📄 [papers/AWQ-Activation-aware-Weight-Quantization-for-LLM-Compression-and-Acceleration.pdf](papers/AWQ-Activation-aware-Weight-Quantization-for-LLM-Compression-and-Acceleration.pdf)
 - [ ] **SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models**
-  📄 [papers/SmoothQuant Accurate and Efficient Post-Training Quantization for Large Language Models.pdf](papers/SmoothQuant-Accurate-and-Efficient-Post-Training-Quantization-for-Large-Language-Models.pdf)
+  📄 [papers/SmoothQuant-Accurate-and-Efficient-Post-Training-Quantization-for-Large-Language-Models.pdf](papers/SmoothQuant-Accurate-and-Efficient-Post-Training-Quantization-for-Large-Language-Models.pdf)
 - [ ] **EfficientQAT: Efficient Quantization-Aware Training for Large Language Models**
-  📄 [papers/EfficientQAT Efficient Quantization-Aware Training for Large Language Models.pdf](papers/EfficientQAT-Efficient-Quantization-Aware-Training-for-Large-Language-Models.pdf)
+  📄 [papers/EfficientQAT-Efficient-Quantization-Aware-Training-for-Large-Language-Models.pdf](papers/EfficientQAT-Efficient-Quantization-Aware-Training-for-Large-Language-Models.pdf)
 - [ ] **BitNet a4.8: 4-bit Activations for 1-bit LLMs**
-  📄 [papers/BitNet a4.8 4-bit Activations for 1-bit LLMs.pdf](papers/BitNet-a4.8-4-bit-Activations-for-1-bit-LLMs.pdf)
+  📄 [papers/BitNet-a4.8-4-bit-Activations-for-1-bit-LLMs.pdf](papers/BitNet-a4.8-4-bit-Activations-for-1-bit-LLMs.pdf)
 - [ ] **A Comprehensive Study on Quantization Techniques for Large Language Models**
-  📄 [papers/A Comprehensive Study on Quantization Techniques for Large Language Models.pdf](papers/A-Comprehensive-Study-on-Quantization-Techniques-for-Large-Language-Models.pdf)
+  📄 [papers/A-Comprehensive-Study-on-Quantization-Techniques-for-Large-Language-Models.pdf](papers/A-Comprehensive-Study-on-Quantization-Techniques-for-Large-Language-Models.pdf)
 - [ ] **Quantization-I.pdf** course slides
   📄 [papers/Quantization-I.pdf](papers/Quantization-I.pdf)
 - [ ] **Quantization-II.pdf** course slides
@@ -440,17 +440,17 @@
 - [ ] **Learning to Summarize from Human Feedback** Stiennon et al. 2020
   📄 [papers/RLHF-Learning-to-summarize-from-human-feedback.pdf](papers/RLHF-Learning-to-summarize-from-human-feedback.pdf)
 - [ ] **InstructGPT: Training language models to follow instructions with human feedback** Ouyang et al. 2022
-  📄 [papers/InstructGPT Training language models to follow instructions with human feedback.pdf](papers/InstructGPT-Training-language-models-to-follow-instructions-with-human-feedback.pdf)
+  📄 [papers/InstructGPT-Training-language-models-to-follow-instructions-with-human-feedback.pdf](papers/InstructGPT-Training-language-models-to-follow-instructions-with-human-feedback.pdf)
 - [ ] **A Survey of Reinforcement Learning from Human Feedback**
-  📄 [papers/A Survey of Reinforcement Learning from Human Feedback.pdf](papers/A-Survey-of-Reinforcement-Learning-from-Human-Feedback.pdf)
+  📄 [papers/A-Survey-of-Reinforcement-Learning-from-Human-Feedback.pdf](papers/A-Survey-of-Reinforcement-Learning-from-Human-Feedback.pdf)
 
 ### 6.2 DPO and Variants
 - [ ] **A Survey of Direct Preference Optimization**
-  📄 [papers/A Survey of Direct Preference Optimization.pdf](papers/A-Survey-of-Direct-Preference-Optimization.pdf)
+  📄 [papers/A-Survey-of-Direct-Preference-Optimization.pdf](papers/A-Survey-of-Direct-Preference-Optimization.pdf)
 - [ ] **A Semantically-Aware Kernel-Enhanced and DivergenceRich Paradigm for DPO**
-  📄 [papers/A Semantically-Aware Kernel-Enhanced and DivergenceRich Paradigm for Direct Preference Optimization.pdf](papers/A-Semantically-Aware-Kernel-Enhanced-and-DivergenceRich-Paradigm-for-Direct-Preference-Optimization.pdf)
+  📄 [papers/A-Semantically-Aware-Kernel-Enhanced-and-DivergenceRich-Paradigm-for-Direct-Preference-Optimization.pdf](papers/A-Semantically-Aware-Kernel-Enhanced-and-DivergenceRich-Paradigm-for-Direct-Preference-Optimization.pdf)
 - [ ] **It Takes Two: Your GRPO Is Secretly DPO**
-  📄 [papers/It Takes Two Your GRPO Is Secretly DPO.pdf](papers/It-Takes-Two-Your-GRPO-Is-Secretly-DPO.pdf)
+  📄 [papers/It-Takes-Two-Your-GRPO-Is-Secretly-DPO.pdf](papers/It-Takes-Two-Your-GRPO-Is-Secretly-DPO.pdf)
   - ← GRPO Section 6.3 DPO Section 6.2
 - [ ] **DEPO: Dual Efficiency Preference Optimization for LLM Agents**
   📄 [papers/DEPO-Dual-Efficiency-Preference-Optimization-for-LLM-Agents.pdf](papers/DEPO-Dual-Efficiency-Preference-Optimization-for-LLM-Agents.pdf)
@@ -459,7 +459,7 @@
 
 ### 6.3 GRPO and Reasoning RL
 - [ ] **Proximal Policy Optimization Algorithms** Schulman et al. 2017
-  📄 [papers/Proximal Policy Optimization Algorithms.pdf](papers/Proximal-Policy-Optimization-Algorithms.pdf)
+  📄 [papers/Proximal-Policy-Optimization-Algorithms.pdf](papers/Proximal-Policy-Optimization-Algorithms.pdf)
 - [ ] **Guided Exploration with Proximal Policy Optimization using a Single Demonstration**
   📄 [papers/Guided-Exploration-with-Proximal-Policy-Optimization-using-a-Single.pdf](papers/Guided-Exploration-with-Proximal-Policy-Optimization-using-a-Single.pdf)
 - [ ] **Learning to Hint for Reinforcement Learning**
@@ -470,9 +470,9 @@
 - [ ] **DeepSeek-R1** — GRPO in production → Section 2.3
   📄 [papers/DeepSeek-R1.pdf](papers/DeepSeek-R1.pdf)
 - [ ] **FlowRL: Matching Reward Distributions for LLM Reasoning**
-  📄 [papers/FlowRL Matching Reward Distributions for LLM Reasoning.pdf](papers/FlowRL-Matching-Reward-Distributions-for-LLM-Reasoning.pdf)
+  📄 [papers/FlowRL-Matching-Reward-Distributions-for-LLM-Reasoning.pdf](papers/FlowRL-Matching-Reward-Distributions-for-LLM-Reasoning.pdf)
 - [ ] **Sharing is Caring: Efficient LM Post-Training with Collective RL Experience Sharing**
-  📄 [papers/Sharing is Caring Efficient LM Post-Training with Collective RL Experience Sharing.pdf](papers/Sharing-is-Caring-Efficient-LM-Post-Training-with-Collective-RL-Experience-Sharing.pdf)
+  📄 [papers/Sharing-is-Caring-Efficient-LM-Post-Training-with-Collective-RL-Experience-Sharing.pdf](papers/Sharing-is-Caring-Efficient-LM-Post-Training-with-Collective-RL-Experience-Sharing.pdf)
 
 ### 6.4 Reward and Feedback
 - [ ] **Reinforcement Learning with Human Feedback: Learning Dynamic Choices via Pessimism**
@@ -490,7 +490,7 @@
 
 ### 6.5 Alignment and Safety
 - [ ] **Language Models Resist Alignment: Evidence From Data Compression**
-  📄 [papers/Language Models Resist Alignment: Evidence From Data Compression.pdf](papers/Language-Models-Resist-Alignment-Evidence-From-Data-Compression.pdf)
+  📄 [papers/Language-Models-Resist-Alignment-Evidence-From-Data-Compression.pdf](papers/Language-Models-Resist-Alignment-Evidence-From-Data-Compression.pdf)
 - [ ] **Model Spec Midtraining: Improving How Alignment Training Generalizes**
   📄 [papers/Model-Spec-Midtraining-Improving-How-Alignment-Training-Generalizes.pdf](papers/Model-Spec-Midtraining-Improving-How-Alignment-Training-Generalizes.pdf)
 - [ ] **How does Alignment Enhance LLMs Multilingual Capabilities: A Language Neurons Perspective**
@@ -504,18 +504,18 @@
 
 ### 7.1 LoRA and PEFT
 - [ ] **LORA: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS** Hu et al. 2021
-  📄 [papers/LORA LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS.pdf](papers/LORA-LOW-RANK-ADAPTATION-OF-LARGE-LANGUAGE-MODELS.pdf)
+  📄 [papers/LORA-LOW-RANK-ADAPTATION-OF-LARGE-LANGUAGE-MODELS.pdf](papers/LORA-LOW-RANK-ADAPTATION-OF-LARGE-LANGUAGE-MODELS.pdf)
   - → QLoRA AdaLoRA DoRA SingLoRA
 - [ ] **AdaLoRA: Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning**
-  📄 [papers/AdaLoRA Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning.pdf](papers/AdaLoRA-Adaptive-Budget-Allocation-for-Parameter-Efficient-Fine-Tuning.pdf)
+  📄 [papers/AdaLoRA-Adaptive-Budget-Allocation-for-Parameter-Efficient-Fine-Tuning.pdf](papers/AdaLoRA-Adaptive-Budget-Allocation-for-Parameter-Efficient-Fine-Tuning.pdf)
 - [ ] **SingLoRA: Low Rank Adaptation Using a Single Matrix**
-  📄 [papers/SingLoRA Low Rank Adaptation Using a Single Matrix.pdf](papers/SingLoRA-Low-Rank-Adaptation-Using-a-Single-Matrix.pdf)
+  📄 [papers/SingLoRA-Low-Rank-Adaptation-Using-a-Single-Matrix.pdf](papers/SingLoRA-Low-Rank-Adaptation-Using-a-Single-Matrix.pdf)
 - [ ] **Text to LoRA: Instant Transformer Adaption**
   📄 [papers/Text-to-LoRA-Instant-Transformer-Adaption.pdf](papers/Text-to-LoRA-Instant-Transformer-Adaption.pdf)
 - [ ] **Low-Rank Adaptation for Foundation Models: A Comprehensive Review**
-  📄 [papers/Low-Rank Adaptation for Foundation Models A Comprehensive Review.pdf](papers/Low-Rank-Adaptation-for-Foundation-Models-A-Comprehensive-Review.pdf)
+  📄 [papers/Low-Rank-Adaptation-for-Foundation-Models-A-Comprehensive-Review.pdf](papers/Low-Rank-Adaptation-for-Foundation-Models-A-Comprehensive-Review.pdf)
 - [ ] **Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey**
-  📄 [papers/Parameter-Efficient Fine-Tuning for Large Models A Comprehensive Survey.pdf](papers/Parameter-Efficient-Fine-Tuning-for-Large-Models-A-Comprehensive-Survey.pdf)
+  📄 [papers/Parameter-Efficient-Fine-Tuning-for-Large-Models-A-Comprehensive-Survey.pdf](papers/Parameter-Efficient-Fine-Tuning-for-Large-Models-A-Comprehensive-Survey.pdf)
 - [ ] **Parameter-Efficient Transfer Learning for NLP**
   📄 [papers/Parameter-Efficient-Transfer-Learning-for-NLP.pdf](papers/Parameter-Efficient-Transfer-Learning-for-NLP.pdf)
 
@@ -539,7 +539,7 @@
 - [ ] **On the Limits of LLM Adaptability: Impact of Model-Internalized Priors**
   📄 [papers/On-the-Limits-of-LLM-Adaptability-Impact-of-Model-Internalized-Priors-on-Annotation-Task-Performance.pdf](papers/On-the-Limits-of-LLM-Adaptability-Impact-of-Model-Internalized-Priors-on-Annotation-Task-Performance.pdf)
 - [ ] **You Only Fine-tune Once: Many-Shot In-Context Fine-Tuning for Large Language Model**
-  📄 [papers/You Only Fine-tune Once: Many-Shot In-Context Fine-Tuning for Large Language Model.pdf](papers/You-Only-Fine-tune-Once-Many-Shot-In-Context-Fine-Tuning-for-Large-Language-Model.pdf)
+  📄 [papers/You-Only-Fine-tune-Once-Many-Shot-In-Context-Fine-Tuning-for-Large-Language-Model.pdf](papers/You-Only-Fine-tune-Once-Many-Shot-In-Context-Fine-Tuning-for-Large-Language-Model.pdf)
 - [ ] **DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models**
   📄 [papers/DataFlex-A-Unified-Framework-for-Data-Centric-Dynamic-Training-of-Large-Language-Models.pdf](papers/DataFlex-A-Unified-Framework-for-Data-Centric-Dynamic-Training-of-Large-Language-Models.pdf)
 
@@ -547,7 +547,7 @@
 - [ ] **How Do Large Language Models Learn Concepts During Continual Pre-Training**
   📄 [papers/How-Do-Large-Language-Models-Learn-Concepts-During-Continual-Pre-Training.pdf](papers/How-Do-Large-Language-Models-Learn-Concepts-During-Continual-Pre-Training.pdf)
 - [ ] **Evolving Language Models without Labels: Majority Drives Selection Novelty Promotes Variation**
-  📄 [papers/Evolving Language Models without Labels: Majority Drives Selection Novelty Promotes Variation.pdf](papers/Evolving-Language-Models-without-Labels-Majority-Drives-Selection-Novelty-Promotes-Variation.pdf)
+  📄 [papers/Evolving-Language-Models-without-Labels-Majority-Drives-Selection-Novelty-Promotes-Variation.pdf](papers/Evolving-Language-Models-without-Labels-Majority-Drives-Selection-Novelty-Promotes-Variation.pdf)
 
 ---
 
@@ -588,11 +588,11 @@
 
 ### 10.1 RAG Foundations
 - [ ] **Self-RAG: Learning to Retrieve Generate and Critique through Self-Reflection**
-  📄 [papers/Self-RAG - Learning to Retrieve  Generate  and Critique through Self-Reflection.pdf](papers/Self-RAG-Learning-to-Retrieve-Generate-and-Critique-through-Self-Reflection.pdf)
+  📄 [papers/Self-RAG-Learning-to-Retrieve-Generate-and-Critique-through-Self-Reflection.pdf](papers/Self-RAG-Learning-to-Retrieve-Generate-and-Critique-through-Self-Reflection.pdf)
 - [ ] **Corrective Retrieval Augmented Generation**
-  📄 [papers/Corrective Retrieval Augmented Generation.pdf](papers/Corrective-Retrieval-Augmented-Generation.pdf)
+  📄 [papers/Corrective-Retrieval-Augmented-Generation.pdf](papers/Corrective-Retrieval-Augmented-Generation.pdf)
 - [ ] **ChunkRAG: Novel LLM-Chunk Filtering Method for RAG Systems**
-  📄 [papers/ChunkRAG Novel LLM-Chunk Filtering Method for RAG Systems.pdf](papers/ChunkRAG-Novel-LLM-Chunk-Filtering-Method-for-RAG-Systems.pdf)
+  📄 [papers/ChunkRAG-Novel-LLM-Chunk-Filtering-Method-for-RAG-Systems.pdf](papers/ChunkRAG-Novel-LLM-Chunk-Filtering-Method-for-RAG-Systems.pdf)
 - [ ] **AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline**
   📄 [papers/AutoRAG-Automated-Framework-for-optimization-of-Retrieval-Augmented-Generation-Pipeline.pdf](papers/AutoRAG-Automated-Framework-for-optimization-of-Retrieval-Augmented-Generation-Pipeline.pdf)
 - [ ] **REFRAG: Rethinking RAG-based Decoding**
@@ -618,7 +618,7 @@
 - [ ] **Synergizing RAG and Reasoning: A Systematic Review**
   📄 [papers/Synergizing-RAG-and-Reasoning-A-Systematic-Review.pdf](papers/Synergizing-RAG-and-Reasoning-A-Systematic-Review.pdf)
 - [ ] **Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs**
-  📄 [papers/Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs.pdf](papers/Towards-Agentic-RAG-with-Deep-Reasoning-A-Survey-of-RAG-Reasoning-Systems-in-LLMs.pdf)
+  📄 [papers/Towards-Agentic-RAG-with-Deep-Reasoning-A-Survey-of-RAG-Reasoning-Systems-in-LLMs.pdf](papers/Towards-Agentic-RAG-with-Deep-Reasoning-A-Survey-of-RAG-Reasoning-Systems-in-LLMs.pdf)
 - [ ] **Long Context RAG Performance of Large Language Models**
   📄 [papers/Long-Context-RAG-Performance-of-Large-Language.pdf](papers/Long-Context-RAG-Performance-of-Large-Language.pdf)
 - [ ] **Retrieval Augmented Conversational Recommendation with Reinforcement Learning**
@@ -650,12 +650,12 @@
 
 ### 11.1 Chain-of-Thought and Prompting
 - [ ] **Chain-of-Thought Prompting Elicits Reasoning in Large Language Models** Wei et al. 2022
-  📄 [papers/Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.pdf](papers/Chain-of-Thought-Prompting-Elicits-Reasoning-in-Large-Language-Models.pdf)
+  📄 [papers/Chain-of-Thought-Prompting-Elicits-Reasoning-in-Large-Language-Models.pdf](papers/Chain-of-Thought-Prompting-Elicits-Reasoning-in-Large-Language-Models.pdf)
   - → Everything below
 - [ ] **Take a Step Back: Evoking Reasoning via Abstraction in Large Language Models**
-  📄 [papers/Take a Step Back- Evoking Reasoning via Abstraction in Large Language Models.pdf](papers/Take-a-Step-Back-Evoking-Reasoning-via-Abstraction-in-Large-Language-Models.pdf)
+  📄 [papers/Take-a-Step-Back-Evoking-Reasoning-via-Abstraction-in-Large-Language-Models.pdf](papers/Take-a-Step-Back-Evoking-Reasoning-via-Abstraction-in-Large-Language-Models.pdf)
 - [ ] **Is Chain-of-Thought Reasoning of LLMs a Mirage**
-  📄 [papers/Is Chain-of-Thought Reasoning of LLMs a Mirage A Data Distribution Lens.pdf](papers/Is-Chain-of-Thought-Reasoning-of-LLMs-a-Mirage-A-Data-Distribution-Lens.pdf)
+  📄 [papers/Is-Chain-of-Thought-Reasoning-of-LLMs-a-Mirage-A-Data-Distribution-Lens.pdf](papers/Is-Chain-of-Thought-Reasoning-of-LLMs-a-Mirage-A-Data-Distribution-Lens.pdf)
 - [ ] **Thoughts without Thinking: Reconsidering the Explanatory Value of Chain-of-Thought Reasoning**
   📄 [papers/Thoughts-without-Thinking-Reconsidering-the-Explanatory-Value-of-Chain-of-Thought-Reasoning-in-LLMs-through-Agentic-Pipelines.pdf](papers/Thoughts-without-Thinking-Reconsidering-the-Explanatory-Value-of-Chain-of-Thought-Reasoning-in-LLMs-through-Agentic-Pipelines.pdf)
 - [ ] **Aligned Orthogonal or In-conflict: When can we safely optimize Chain-of-Thought**
@@ -693,7 +693,7 @@
 - [ ] **DO EXPLANATIONS GENERALIZE ACROSS LARGE REASONING MODELS**
   📄 [papers/DO-EXPLANATIONS-GENERALIZE-ACROSS-LARGE-REA-SONING-MODELS.pdf](papers/DO-EXPLANATIONS-GENERALIZE-ACROSS-LARGE-REA-SONING-MODELS.pdf)
 - [ ] **Parallel-R1: Towards Parallel Thinking via Reinforcement Learning**
-  📄 [papers/Parallel-R1: Towards Parallel Thinking via Reinforcement Learning.pdf](papers/Parallel-R1-Towards-Parallel-Thinking-via-Reinforcement-Learning.pdf)
+  📄 [papers/Parallel-R1-Towards-Parallel-Thinking-via-Reinforcement-Learning.pdf](papers/Parallel-R1-Towards-Parallel-Thinking-via-Reinforcement-Learning.pdf)
 - [ ] **Reasoning Vectors: Transferring Chain-of-Thought Capabilities via Task Arithmetic**
   📄 [papers/Reasoning-Vectors-Transferring-Chain-of-Thought-Capabilities-via-Task-Arithmetic.pdf](papers/Reasoning-Vectors-Transferring-Chain-of-Thought-Capabilities-via-Task-Arithmetic.pdf)
 
@@ -703,7 +703,7 @@
 - [ ] **Programming over Thinking: Efficient and Robust Multi-Constraint Planning**
   📄 [papers/Programming-over-Thinking-Efficient-and-Robust-Multi-Constraint-Planning.pdf](papers/Programming-over-Thinking-Efficient-and-Robust-Multi-Constraint-Planning.pdf)
 - [ ] **PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems**
-  📄 [papers/PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems.pdf](papers/PlanBench-XL-Evaluating-Long-Horizon-Planning-of-LLM-Tool-Use-Agents-in-Large-Scale-Tool-Ecosystems.pdf)
+  📄 [papers/PlanBench-XL-Evaluating-Long-Horizon-Planning-of-LLM-Tool-Use-Agents-in-Large-Scale-Tool-Ecosystems.pdf](papers/PlanBench-XL-Evaluating-Long-Horizon-Planning-of-LLM-Tool-Use-Agents-in-Large-Scale-Tool-Ecosystems.pdf)
 - [ ] **DeepSearch: Overcome the Bottleneck of Reinforcement Learning with Verifiable Rewards via Monte Carlo Tree Search**
   📄 [papers/DeepSearch-Overcome-the-Bottleneck-of-Reinforcement-Learning-with-Verifiable-Rewards-via-Monte-Carlo-Tree-Search.pdf](papers/DeepSearch-Overcome-the-Bottleneck-of-Reinforcement-Learning-with-Verifiable-Rewards-via-Monte-Carlo-Tree-Search.pdf)
 
@@ -761,17 +761,17 @@
 - [ ] **a-practical-guide-to-building-agents.pdf**
   📄 [papers/a-practical-guide-to-building-agents.pdf](papers/a-practical-guide-to-building-agents.pdf)
 - [ ] **Agentic AI: A Comprehensive Survey of Architectures Applications and Future Directions**
-  📄 [papers/Agentic AI: A Comprehensive Survey of Architectures Applications and Future Directions.pdf](papers/A-Comprehensive-Survey-of-Self-Evolving-AI-Agents-A-New-Paradigm-Bridging-Foundation-Models-and-Lifelong-Agentic-Systems.pdf)
+  📄 [papers/A-Comprehensive-Survey-of-Self-Evolving-AI-Agents-A-New-Paradigm-Bridging-Foundation-Models-and-Lifelong-Agentic-Systems.pdf](papers/A-Comprehensive-Survey-of-Self-Evolving-AI-Agents-A-New-Paradigm-Bridging-Foundation-Models-and-Lifelong-Agentic-Systems.pdf)
 - [ ] **AI Agent Systems: Architectures Applications and Evaluation**
   📄 [papers/AI-Agent-Systems-Architectures-Applications-and-Evaluation.pdf](papers/AI-Agent-Systems-Architectures-Applications-and-Evaluation.pdf)
 - [ ] **AI Agents Evolution Architecture and Real-World Applications**
   📄 [papers/AI-Agents-Evolution-Architecture-and-Real-World-Applications.pdf](papers/AI-Agents-Evolution-Architecture-and-Real-World-Applications.pdf)
 - [ ] **AI Agents v Agentic AI: A Conceptual Taxonomy Applications and Challenges**
-  📄 [papers/AI Agents v Agentic AI: A Conceptual Taxonomy Applications and Challenges.pdf](papers/A-Comprehensive-Survey-of-Self-Evolving-AI-Agents-A-New-Paradigm-Bridging-Foundation-Models-and-Lifelong-Agentic-Systems.pdf)
+  📄 [papers/A-Comprehensive-Survey-of-Self-Evolving-AI-Agents-A-New-Paradigm-Bridging-Foundation-Models-and-Lifelong-Agentic-Systems.pdf](papers/A-Comprehensive-Survey-of-Self-Evolving-AI-Agents-A-New-Paradigm-Bridging-Foundation-Models-and-Lifelong-Agentic-Systems.pdf)
 - [ ] **AI Agents as Universal Task Solvers**
   📄 [papers/AI-Agents-as-Universal-Task-Solvers.pdf](papers/AI-Agents-as-Universal-Task-Solvers.pdf)
 - [ ] **AGENT AI: SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION**
-  📄 [papers/AGENT AI: SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION.pdf](papers/AGENT-AI-SURVEYING-THE-HORIZONS-OF-MULTIMODAL-INTERACTION.pdf)
+  📄 [papers/AGENT-AI-SURVEYING-THE-HORIZONS-OF-MULTIMODAL-INTERACTION.pdf](papers/AGENT-AI-SURVEYING-THE-HORIZONS-OF-MULTIMODAL-INTERACTION.pdf)
 
 ### 12.2 Agent Architectures
 - [ ] **Cognitive Architectures for Language Agents**
@@ -797,7 +797,7 @@
 - [ ] **Collaborative AI Agents in the Era of Large Language Models**
   📄 [papers/Collaborative-AI-Agents-in-the-Era-of-Large-Language-Models.pdf](papers/Collaborative-AI-Agents-in-the-Era-of-Large-Language-Models.pdf)
 - [ ] **Beyond Individual Intelligence: Surveying Collaboration Failure Attribution and Self-Evolution in LLM-based Multi-Agent Systems**
-  📄 [papers/Beyond Individual Intelligence: Surveying Collaboration Failure Attribution and Self-Evolution in LLM-based Multi-Agent Systems.pdf](papers/Beyond-Individual-Intelligence-Surveying-Collaboration-Failure-Attribution-and-Self-Evolution-in-LLM-based-Multi-Agent-Systems.pdf)
+  📄 [papers/Beyond-Individual-Intelligence-Surveying-Collaboration-Failure-Attribution-and-Self-Evolution-in-LLM-based-Multi-Agent-Systems.pdf](papers/Beyond-Individual-Intelligence-Surveying-Collaboration-Failure-Attribution-and-Self-Evolution-in-LLM-based-Multi-Agent-Systems.pdf)
 - [ ] **Why Do Multi-Agent LLM Systems Fail**
   📄 [papers/WhyDoMulti-Agent-LLM-Systems-Fail.pdf](papers/WhyDoMulti-Agent-LLM-Systems-Fail.pdf)
 - [ ] **Single-Agent LLMs Outperform Multi-Agent Systems on Multi-Hop Reasoning Under Equal Thinking Token Budgets**
@@ -807,7 +807,7 @@
 - [ ] **Recursive Multi-Agent Systems**
   📄 [papers/Recursive-Multi-Agent-Systems.pdf](papers/Recursive-Multi-Agent-Systems.pdf)
 - [ ] **WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning**
-  📄 [papers/WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning.pdf](papers/WideSeek-R1-Exploring-Width-Scaling-for-Broad-Information-Seeking-via-Multi-Agent-Reinforcement-Learning.pdf)
+  📄 [papers/WideSeek-R1-Exploring-Width-Scaling-for-Broad-Information-Seeking-via-Multi-Agent-Reinforcement-Learning.pdf](papers/WideSeek-R1-Exploring-Width-Scaling-for-Broad-Information-Seeking-via-Multi-Agent-Reinforcement-Learning.pdf)
 - [ ] **Adaptive Multi-Agent Response Refinement in Conversational Systems**
   📄 [papers/Adaptive-Multi-Agent-Response-Refinement-in-Conversational-Systems.pdf](papers/Adaptive-Multi-Agent-Response-Refinement-in-Conversational-Systems.pdf)
 - [ ] **MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems**
@@ -871,7 +871,7 @@
 - [ ] **Tree Search for LLM Agent Reinforcement Learning**
   📄 [papers/Tree-Search-for-LLM-Agent-Reinforcement-Learning.pdf](papers/Tree-Search-for-LLM-Agent-Reinforcement-Learning.pdf)
 - [ ] **OpenClaw-RL: Train Any Agent Simply by Talking**
-  📄 [papers/OpenClaw-RL: Train Any Agent Simply by Talking.pdf](papers/OpenClaw-RL-Train-Any-Agent-Simply-by-Talking.pdf)
+  📄 [papers/OpenClaw-RL-Train-Any-Agent-Simply-by-Talking.pdf](papers/OpenClaw-RL-Train-Any-Agent-Simply-by-Talking.pdf)
 
 ### 12.7 Agent Evaluation and Benchmarking
 - [ ] **Agents' Last Exam**
@@ -907,11 +907,11 @@
 
 ### 12.9 Agent Skills and Tools
 - [ ] **A Comprehensive Survey on Agent Skills: Taxonomy Techniques and Applications**
-  📄 [papers/A Comprehensive Survey on Agent Skills: Taxonomy Techniques and Applications.pdf](papers/A-Comprehensive-Survey-of-Mixture-of-Experts-Algorithms-Theory-and-Applications.pdf)
+  📄 [papers/A-Comprehensive-Survey-of-Mixture-of-Experts-Algorithms-Theory-and-Applications.pdf](papers/A-Comprehensive-Survey-of-Mixture-of-Experts-Algorithms-Theory-and-Applications.pdf)
 - [ ] **AutoTool: Efficient Tool Selection for Large Language Model Agents**
   📄 [papers/AutoTool-Efficient-Tool-Selection-for-Large-Language-Model-Agents.pdf](papers/AutoTool-Efficient-Tool-Selection-for-Large-Language-Model-Agents.pdf)
 - [ ] **From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills**
-  📄 [papers/From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills.pdf](papers/From-Context-to-Skills-Can-Language-Models-Learn-from-Context-Skillfully.pdf)
+  📄 [papers/From-Context-to-Skills-Can-Language-Models-Learn-from-Context-Skillfully.pdf](papers/From-Context-to-Skills-Can-Language-Models-Learn-from-Context-Skillfully.pdf)
 - [ ] **Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills**
   📄 [papers/Trace2Skill-Distill-Trajectory-Local-Lessons-into-Transferable-Agent-Skills.pdf](papers/Trace2Skill-Distill-Trajectory-Local-Lessons-into-Transferable-Agent-Skills.pdf)
 - [ ] **Distilling LLM Agent into Small Models with Retrieval and Code Tools**
@@ -919,7 +919,7 @@
 
 ### 12.10 Agent-Specific Topics
 - [ ] **Agentic AI for Payment Fraud: CASE Framework**
-  📄 [papers/Agentic AI for Payment Fraud: CASE Framework.pdf](papers/CASE-An-Agentic-AI-Framework-for-Enhancing-Scam-Intelligence-in-Digital-Payments.pdf)
+  📄 [papers/CASE-An-Agentic-AI-Framework-for-Enhancing-Scam-Intelligence-in-Digital-Payments.pdf](papers/CASE-An-Agentic-AI-Framework-for-Enhancing-Scam-Intelligence-in-Digital-Payments.pdf)
 - [ ] **Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing**
   📄 [papers/Comparing-AI-Agents-to-Cybersecurity-Professionals-in-Real-World-Penetration-Testing.pdf](papers/Comparing-AI-Agents-to-Cybersecurity-Professionals-in-Real-World-Penetration-Testing.pdf)
 - [ ] **Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1**
@@ -927,7 +927,7 @@
 - [ ] **SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment**
   📄 [papers/SymptomAI-Towards-a-Conversational-AI-Agent-for-Everyday-Symptom-Assessment.pdf](papers/SymptomAI-Towards-a-Conversational-AI-Agent-for-Everyday-Symptom-Assessment.pdf)
 - [ ] **LLM-Agent-as-Data-Analyst: A Survey**
-  📄 [papers/LLM-Agent-as-Data-Analyst: A Survey.pdf](papers/A-Survey-of-Scientific-Large-Language-Models-From-Data-Foundations-to-Agent-Frontiers.pdf)
+  📄 [papers/A-Survey-of-Scientific-Large-Language-Models-From-Data-Foundations-to-Agent-Frontiers.pdf](papers/A-Survey-of-Scientific-Large-Language-Models-From-Data-Foundations-to-Agent-Frontiers.pdf)
 - [ ] **DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle**
   📄 [papers/DAComp-Benchmarking-Data-Agents-across-the-Full-Data-Intelligence-Lifecycle.pdf](papers/DAComp-Benchmarking-Data-Agents-across-the-Full-Data-Intelligence-Lifecycle.pdf)
 - [ ] **InfoAgent: Advancing Autonomous Information-Seeking Agents**
@@ -939,7 +939,7 @@
 - [ ] **LLMs Corrupt Your Documents When You Delegate**
   📄 [papers/LLMs-Corrupt-Your-Documents-When-You-Delegate.pdf](papers/LLMs-Corrupt-Your-Documents-When-You-Delegate.pdf)
 - [ ] **Did You Forget What I Asked: Prospective Memory Failures in Large Language Models**
-  📄 [papers/Did You Forget What I Asked: Prospective Memory Failures in Large Language Models.pdf](papers/Did-You-Forget-What-I-Asked-Prospective-Memory-Failures-in-Large-Language-Models.pdf)
+  📄 [papers/Did-You-Forget-What-I-Asked-Prospective-Memory-Failures-in-Large-Language-Models.pdf](papers/Did-You-Forget-What-I-Asked-Prospective-Memory-Failures-in-Large-Language-Models.pdf)
 - [ ] **Large Language Model Agent: A Survey on Methodology Applications and Challenges**
   📄 [papers/Large-Language-Model-Agent-A-Survey-on-Methodology-Applications-and-Challenges.pdf](papers/Large-Language-Model-Agent-A-Survey-on-Methodology-Applications-and-Challenges.pdf)
 
@@ -949,9 +949,9 @@
 
 ### 13.1 Agent Memory
 - [ ] **Are We Ready For An Agent-Native Memory System**
-  📄 [papers/Are We Ready For An Agent-Native Memory System.pdf](papers/Are-We-Ready-For-An-Agent-Native-Memory-System.pdf)
+  📄 [papers/Are-We-Ready-For-An-Agent-Native-Memory-System.pdf](papers/Are-We-Ready-For-An-Agent-Native-Memory-System.pdf)
 - [ ] **MemOS: A Memory OS for AI System**
-  📄 [papers/MemOS A Memory OS for AI System.pdf](papers/MemOS-A-Memory-OS-for-AI-System.pdf)
+  📄 [papers/MemOS-A-Memory-OS-for-AI-System.pdf](papers/MemOS-A-Memory-OS-for-AI-System.pdf)
 - [ ] **ByteRover: Agent-Native Memory Through LLM-Curated Hierarchical Context**
   📄 [papers/ByteRover-Agent-Native-Memory-Through-LLM-Curated-Hierarchical-Context.pdf](papers/ByteRover-Agent-Native-Memory-Through-LLM-Curated-Hierarchical-Context.pdf)
 - [ ] **MIRIX: Multi-Agent Memory System for LLM-Based Agents**
@@ -969,9 +969,9 @@
 - [ ] **Simulating Human Memory with Language Models**
   📄 [papers/Simulating-Human-Memory-with-Language-Models.pdf](papers/Simulating-Human-Memory-with-Language-Models.pdf)
 - [ ] **Memory as a Markov Matrix: Sample Efficient Knowledge Expansion via Token-to-Dictionary Mapping**
-  📄 [papers/Memory as a Markov Matrix: Sample Efficient Knowledge Expansion via Token-to-Dictionary Mapping.pdf](papers/Memory-as-a-Markov-Matrix-Sample-Efficient-Knowledge-Expansion-via-Token-to-Dictionary-Mapping.pdf)
+  📄 [papers/Memory-as-a-Markov-Matrix-Sample-Efficient-Knowledge-Expansion-via-Token-to-Dictionary-Mapping.pdf](papers/Memory-as-a-Markov-Matrix-Sample-Efficient-Knowledge-Expansion-via-Token-to-Dictionary-Mapping.pdf)
 - [ ] **Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models**
-  📄 [papers/Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models.pdf](papers/Conditional-Memory-via-Scalable-Lookup-A-New-Axis-of-Sparsity-for-Large-Language-Models.pdf)
+  📄 [papers/Conditional-Memory-via-Scalable-Lookup-A-New-Axis-of-Sparsity-for-Large-Language-Models.pdf](papers/Conditional-Memory-via-Scalable-Lookup-A-New-Axis-of-Sparsity-for-Large-Language-Models.pdf)
 - [ ] **Titans: Learning to Memorize at Test Time**
   📄 [papers/Titans-Learning-to-Memorize-at-Test-Time.pdf](papers/Titans-Learning-to-Memorize-at-Test-Time.pdf)
   - → Agent Memory Section 15
@@ -1026,7 +1026,7 @@
 - [ ] **ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks**
   📄 [papers/ReportBench-Evaluating-Deep-Research-Agents-via-Academic-Survey-Tasks.pdf](papers/ReportBench-Evaluating-Deep-Research-Agents-via-Academic-Survey-Tasks.pdf)
 - [ ] **Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity**
-  📄 [papers/Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity.pdf](papers/Incompressible-Knowledge-Probes-Estimating-Black-Box-LLM-Parameter-Counts-via-Factual-Capacity.pdf)
+  📄 [papers/Incompressible-Knowledge-Probes-Estimating-Black-Box-LLM-Parameter-Counts-via-Factual-Capacity.pdf](papers/Incompressible-Knowledge-Probes-Estimating-Black-Box-LLM-Parameter-Counts-via-Factual-Capacity.pdf)
 
 ### 15.4 Reliability and Uncertainty
 - [ ] **The Illusion of Certainty: Uncertainty quantification for LLMs fails under ambiguity**
@@ -1042,23 +1042,23 @@
 
 ### 16.1 AI Safety
 - [ ] **Trustworthy AI: Ensuring Reliability and Accountability from Models to Agents**
-  📄 [papers/Trustworthy AI: Ensuring Reliability and Accountability from Models to Agents.pdf](papers/Trustworthy-AI-Ensuring-Reliability-and-Accountability-from-Models-to-Agents.pdf)
+  📄 [papers/Trustworthy-AI-Ensuring-Reliability-and-Accountability-from-Models-to-Agents.pdf](papers/Trustworthy-AI-Ensuring-Reliability-and-Accountability-from-Models-to-Agents.pdf)
 - [ ] **Towards trustworthy agentic AI: a comprehensive survey of safety robustness privacy and system security**
-  📄 [papers/Towards trustworthy agentic AI: a comprehensive survey of safety robustness privacy and system security.pdf](papers/Towards-trustworthy-agentic-AI-a-comprehensive-survey-of-safety-robustness-privacy-and-system-security.pdf)
+  📄 [papers/Towards-trustworthy-agentic-AI-a-comprehensive-survey-of-safety-robustness-privacy-and-system-security.pdf](papers/Towards-trustworthy-agentic-AI-a-comprehensive-survey-of-safety-robustness-privacy-and-system-security.pdf)
 - [ ] **Distributional AGI Safety**
   📄 [papers/Distributional-AGI-Safety.pdf](papers/Distributional-AGI-Safety.pdf)
 - [ ] **Safety in Embodied AI: A Survey of Risks Attacks and Defenses**
-  📄 [papers/Safety in Embodied AI: A Survey of Risks Attacks and Defenses.pdf](papers/Safety-in-Embodied-AI-A-Survey-of-Risks-Attacks-and-Defenses.pdf)
+  📄 [papers/Safety-in-Embodied-AI-A-Survey-of-Risks-Attacks-and-Defenses.pdf](papers/Safety-in-Embodied-AI-A-Survey-of-Risks-Attacks-and-Defenses.pdf)
 - [ ] **A Survey on Agentic Security: Applications Threats and Defenses**
-  📄 [papers/A Survey on Agentic Security: Applications Threats and Defenses.pdf](papers/A-Comprehensive-Survey-of-Self-Evolving-AI-Agents-A-New-Paradigm-Bridging-Foundation-Models-and-Lifelong-Agentic-Systems.pdf)
+  📄 [papers/A-Comprehensive-Survey-of-Self-Evolving-AI-Agents-A-New-Paradigm-Bridging-Foundation-Models-and-Lifelong-Agentic-Systems.pdf](papers/A-Comprehensive-Survey-of-Self-Evolving-AI-Agents-A-New-Paradigm-Bridging-Foundation-Models-and-Lifelong-Agentic-Systems.pdf)
 - [ ] **Evaluating Language Models for Harmful Manipulation**
   📄 [papers/Evaluating-Language-Models-for-Harmful-Manipulation.pdf](papers/Evaluating-Language-Models-for-Harmful-Manipulation.pdf)
 
 ### 16.2 Policy and Compliance
 - [ ] **Do LLMs Follow Their Own Rules: A Reflexive Audit of Self-Stated Safety Policies**
-  📄 [papers/Do LLMs Follow Their Own Rules: A Reflexive Audit of Self-Stated Safety Policies.pdf](papers/Do-LLMs-Follow-Their-Own-Rules-A-Reflexive-Audit-of-Self-Stated-Safety-Policies.pdf)
+  📄 [papers/Do-LLMs-Follow-Their-Own-Rules-A-Reflexive-Audit-of-Self-Stated-Safety-Policies.pdf](papers/Do-LLMs-Follow-Their-Own-Rules-A-Reflexive-Audit-of-Self-Stated-Safety-Policies.pdf)
 - [ ] **Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs**
-  📄 [papers/Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs.pdf](papers/Fairness-through-Difference-Awareness-Measuring-Desired-Group-Discrimination-in-LLMs.pdf)
+  📄 [papers/Fairness-through-Difference-Awareness-Measuring-Desired-Group-Discrimination-in-LLMs.pdf](papers/Fairness-through-Difference-Awareness-Measuring-Desired-Group-Discrimination-in-LLMs.pdf)
 
 ### 16.3 Adversarial and Backdoors
 - [ ] **Weird Generalization and Inductive Backdoors: New Ways to Corrupt LLMs**
@@ -1076,7 +1076,7 @@
 - [ ] **AI for Auto-Research: Roadmap and User Guide**
   📄 [papers/AI-for-Auto-Research-Roadmap-and-User-Guide.pdf](papers/AI-for-Auto-Research-Roadmap-and-User-Guide.pdf)
 - [ ] **AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery**
-  📄 [papers/AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery.pdf](papers/AutoResearch-AI-Towards-AI-Powered-Research-Automation-for-Scientific-Discovery.pdf)
+  📄 [papers/AutoResearch-AI-Towards-AI-Powered-Research-Automation-for-Scientific-Discovery.pdf](papers/AutoResearch-AI-Towards-AI-Powered-Research-Automation-for-Scientific-Discovery.pdf)
 - [ ] **Accelerating Scientific Discovery with Autonomous Goal-evolving Agents**
   📄 [papers/Accelerating-Scientific-Discovery-with-Autonomous-Goal-evolving-Agents.pdf](papers/Accelerating-Scientific-Discovery-with-Autonomous-Goal-evolving-Agents.pdf)
 - [ ] **Deep Research: A Systematic Survey**
@@ -1108,7 +1108,7 @@
 - [ ] **From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery**
   📄 [papers/From-Automation-to-Autonomy-ASurvey-on-Large-Language-Models-in-Scientific-Discovery.pdf](papers/From-Automation-to-Autonomy-ASurvey-on-Large-Language-Models-in-Scientific-Discovery.pdf)
 - [ ] **Intern-S1: A Scientific Multimodal Foundation Model**
-  📄 [papers/Intern-S1: A Scientific Multimodal Foundation Model.pdf](papers/Intern-S1-A-Scientific-Multimodal-Foundation-Model.pdf)
+  📄 [papers/Intern-S1-A-Scientific-Multimodal-Foundation-Model.pdf](papers/Intern-S1-A-Scientific-Multimodal-Foundation-Model.pdf)
 
 ---
 
@@ -1128,7 +1128,7 @@
 
 ### 18.3 GUI Agents
 - [ ] **UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning**
-  📄 [papers/UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning.pdf](papers/UI-TARS-2-Technical-Report-Advancing-GUI-Agent-with-Multi-Turn-Reinforcement-Learning.pdf)
+  📄 [papers/UI-TARS-2-Technical-Report-Advancing-GUI-Agent-with-Multi-Turn-Reinforcement-Learning.pdf](papers/UI-TARS-2-Technical-Report-Advancing-GUI-Agent-with-Multi-Turn-Reinforcement-Learning.pdf)
 
 ---
 
@@ -1201,7 +1201,7 @@
 
 ### 22.3 Robotics and Embodied
 - [ ] **Safety in Embodied AI: A Survey of Risks Attacks and Defenses**
-  📄 [papers/Safety in Embodied AI: A Survey of Risks Attacks and Defenses.pdf](papers/Safety-in-Embodied-AI-A-Survey-of-Risks-Attacks-and-Defenses.pdf)
+  📄 [papers/Safety-in-Embodied-AI-A-Survey-of-Risks-Attacks-and-Defenses.pdf](papers/Safety-in-Embodied-AI-A-Survey-of-Risks-Attacks-and-Defenses.pdf)
 - [ ] **Brain-Inspired Planning for Better Generalization in Reinforcement Learning**
   📄 [papers/Brain-Inspired-Planning-for-Better-Generalization-in-Reinforcement-Learning.pdf](papers/Brain-Inspired-Planning-for-Better-Generalization-in-Reinforcement-Learning.pdf)
 
@@ -1236,7 +1236,7 @@
 - [ ] **Meta Lattice: Model Space Redesign for Cost-Effective Industry-Scale Ads Recommendations**
   📄 [papers/Meta-Lattice-Model-Space-Redesign-for-Cost-Effective-Industry-Scale-Ads-Recommendations.pdf](papers/Meta-Lattice-Model-Space-Redesign-for-Cost-Effective-Industry-Scale-Ads-Recommendations.pdf)
 - [ ] **LoRa-RL: Deep Reinforcement Learning for Resource Management in Hybrid Energy**
-  📄 [papers/LoRa-RL: Deep Reinforcement Learning for Resource Management in Hybrid Energy.pdf](papers/LoRa-RL-Deep-Reinforcement-Learning-for-Resource-Management-in-Hybrid-Energy-LoRa-Wireless-Networks.pdf)
+  📄 [papers/LoRa-RL-Deep-Reinforcement-Learning-for-Resource-Management-in-Hybrid-Energy-LoRa-Wireless-Networks.pdf](papers/LoRa-RL-Deep-Reinforcement-Learning-for-Resource-Management-in-Hybrid-Energy-LoRa-Wireless-Networks.pdf)
 
 ### 24.3 Document and Information Processing
 - [ ] **Document Intelligence in the Era of Large Language Models: A Survey**
@@ -1267,11 +1267,11 @@
 - [ ] **Understanding Self-attention Mechanism via Dynamical System Perspective**
   📄 [papers/Understanding-Self-attention-Mechanism-via-Dynamical-System-Perspective.pdf](papers/Understanding-Self-attention-Mechanism-via-Dynamical-System-Perspective.pdf)
 - [ ] **From Memorization to Creativity: LLM as a Designer of Novel Neural-Architectures**
-  📄 [papers/From Memorization to Creativity: LLM as a Designer of Novel Neural-Architectures.pdf](papers/From-Memorization-to-Creativity-LLM-as-a-Designer-of-Novel-Neural-Architectures.pdf)
+  📄 [papers/From-Memorization-to-Creativity-LLM-as-a-Designer-of-Novel-Neural-Architectures.pdf](papers/From-Memorization-to-Creativity-LLM-as-a-Designer-of-Novel-Neural-Architectures.pdf)
 - [ ] **Systems and Methods for Improving Large Language**
   📄 [papers/Systems-and-Methods-for-Improving-Large-Language.pdf](papers/Systems-and-Methods-for-Improving-Large-Language.pdf)
 - [ ] **A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive**
-  📄 [papers/A Theory of Response Sampling in LLMs: Part Descriptive and Part Prescriptive.pdf](papers/A-Theory-of-Response-Sampling-in-LLMs-Part-Descriptive-and-Part-Prescriptive.pdf)
+  📄 [papers/A-Theory-of-Response-Sampling-in-LLMs-Part-Descriptive-and-Part-Prescriptive.pdf](papers/A-Theory-of-Response-Sampling-in-LLMs-Part-Descriptive-and-Part-Prescriptive.pdf)
 - [ ] **Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth**
   📄 [papers/Drivel-ology-Challenging-LLMs-with-Interpreting-Nonsense-with-Depth.pdf](papers/Drivel-ology-Challenging-LLMs-with-Interpreting-Nonsense-with-Depth.pdf)
 - [ ] **Artificial Hivemind: The Open-Ended Homogeneity of Language Models and Beyond**
@@ -1299,7 +1299,7 @@
 
 ### 26.3 Scientific
 - [ ] **Intern-S1: A Scientific Multimodal Foundation Model**
-  📄 [papers/Intern-S1: A Scientific Multimodal Foundation Model.pdf](papers/Intern-S1-A-Scientific-Multimodal-Foundation-Model.pdf)
+  📄 [papers/Intern-S1-A-Scientific-Multimodal-Foundation-Model.pdf](papers/Intern-S1-A-Scientific-Multimodal-Foundation-Model.pdf)
 - [ ] **A Survey of Scientific Large Language Models**
   📄 [papers/A-Survey-of-Scientific-Large-Language-Models-From-Data-Foundations-to-Agent-Frontiers.pdf](papers/A-Survey-of-Scientific-Large-Language-Models-From-Data-Foundations-to-Agent-Frontiers.pdf)
 
