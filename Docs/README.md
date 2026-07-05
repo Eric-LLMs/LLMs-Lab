@@ -411,6 +411,8 @@
   📄 [papers/Tutorial-Proposal-Efficient-Inference-for-Large-Language-Models.pdf](papers/Tutorial-Proposal-Efficient-Inference-for-Large-Language-Models.pdf)
 - [ ] **Seed Diffusion: A Large-Scale Diffusion Language Model with High-Speed Inference**
   📄 [papers/Seed-Diffusion-A-Large-Scale-Diffusion-Language-Model-with-High-Speed-Inference.pdf](papers/Seed-Diffusion-A-Large-Scale-Diffusion-Language-Model-with-High-Speed-Inference.pdf)
+- [ ] **DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation**
+  📄 [papers/DSpark-Confidence-Scheduled-Speculative-Decoding-with-Semi-Autoregressive-Generation.pdf](papers/DSpark-Confidence-Scheduled-Speculative-Decoding-with-Semi-Autoregressive-Generation.pdf)
 
 ### 5.3 Knowledge Distillation
 - [ ] **Knowledge-Distillation.pdf**
