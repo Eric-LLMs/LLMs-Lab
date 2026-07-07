@@ -774,6 +774,8 @@
   📄 [papers/AI-Agents-as-Universal-Task-Solvers.pdf](papers/AI-Agents-as-Universal-Task-Solvers.pdf)
 - [ ] **AGENT AI: SURVEYING THE HORIZONS OF MULTIMODAL INTERACTION**
   📄 [papers/AGENT-AI-SURVEYING-THE-HORIZONS-OF-MULTIMODAL-INTERACTION.pdf](papers/AGENT-AI-SURVEYING-THE-HORIZONS-OF-MULTIMODAL-INTERACTION.pdf)
+- [ ] **Critique of Agent Model**
+  📄 [papers/Critique-of-Agent-Model.pdf](papers/Critique-of-Agent-Model.pdf)
 
 ### 12.2 Agent Architectures
 - [ ] **Cognitive Architectures for Language Agents**
