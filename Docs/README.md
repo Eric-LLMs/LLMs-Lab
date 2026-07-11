@@ -936,6 +936,8 @@
   📄 [papers/DAComp-Benchmarking-Data-Agents-across-the-Full-Data-Intelligence-Lifecycle.pdf](papers/DAComp-Benchmarking-Data-Agents-across-the-Full-Data-Intelligence-Lifecycle.pdf)
 - [ ] **InfoAgent: Advancing Autonomous Information-Seeking Agents**
   📄 [papers/InfoAgent-Advancing-Autonomous-Information-Seeking-Agents.pdf](papers/InfoAgent-Advancing-Autonomous-Information-Seeking-Agents.pdf)
+- [ ] **Autonomous Information Seeking: A Roadmap for Agentic Recommender Systems**
+  📄 [papers/Autonomous-Information-Seeking-A-Roadmap-for-Agentic-Recommender-Systems.pdf](papers/Autonomous-Information-Seeking-A-Roadmap-for-Agentic-Recommender-Systems.pdf)
 - [ ] **LLM-based Agents Suffer from Hallucinations**
   📄 [papers/LLM-based-Agents-Suffer-from-Hallucinations-A-Survey-of-Taxonomy-Methods-and-Directions.pdf](papers/LLM-based-Agents-Suffer-from-Hallucinations-A-Survey-of-Taxonomy-Methods-and-Directions.pdf)
 - [ ] **Multi-User Large Language Model Agents**
