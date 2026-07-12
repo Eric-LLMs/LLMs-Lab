@@ -818,6 +818,8 @@
   📄 [papers/MASPO--Joint-Prompt-Optimization-for-LLM-based-Multi-Agent-Systems.pdf](papers/MASPO--Joint-Prompt-Optimization-for-LLM-based-Multi-Agent-Systems.pdf)
 - [ ] **MARL-GPT: Foundation Model for Multi-Agent Reinforcement Learning**
   📄 [papers/MARL-GPT-Foundation-Model-for-Multi-Agent-Reinforcement-Learning.pdf](papers/MARL-GPT-Foundation-Model-for-Multi-Agent-Reinforcement-Learning.pdf)
+- [ ] **Task Decomposition with Multi-Agent Systems**
+  📄 [papers/Task-Decomposition-with-Multi-Agent-Systems.pdf](papers/Task-Decomposition-with-Multi-Agent-Systems.pdf)
 
 ### 12.4 Self-Evolving Agents
 - [ ] **A Comprehensive Survey of Self-Evolving AI Agents**
