@@ -1212,6 +1212,8 @@
   📄 [papers/Safety-in-Embodied-AI-A-Survey-of-Risks-Attacks-and-Defenses.pdf](papers/Safety-in-Embodied-AI-A-Survey-of-Risks-Attacks-and-Defenses.pdf)
 - [ ] **Brain-Inspired Planning for Better Generalization in Reinforcement Learning**
   📄 [papers/Brain-Inspired-Planning-for-Better-Generalization-in-Reinforcement-Learning.pdf](papers/Brain-Inspired-Planning-for-Better-Generalization-in-Reinforcement-Learning.pdf)
+- [ ] **ABot-AgentOS: A General Robotic Agent OS with Lifelong Multi-modal Memory**
+  📄 [papers/ABot-AgentOS-A-General-Robotic-Agent-OS-with-Lifelong-Multi-modal-Memory.pdf](papers/ABot-AgentOS-A-General-Robotic-Agent-OS-with-Lifelong-Multi-modal-Memory.pdf)
 
 ---
 
