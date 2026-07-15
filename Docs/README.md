@@ -425,6 +425,8 @@
   📄 [papers/Self-Distillation-Enables-Continual-Learning.pdf](papers/Self-Distillation-Enables-Continual-Learning.pdf)
 - [ ] **Self-Distillation Zero: Self-Revision Turns Binary Rewards into Dense Supervision**
   📄 [papers/Self-Distillation-Zero-Self-Revision-Turns-Binary-Rewards-into-Dense-Supervision.pdf](papers/Self-Distillation-Zero-Self-Revision-Turns-Binary-Rewards-into-Dense-Supervision.pdf)
+- [ ] **Weak-to-Strong Generalization via Direct On-Policy Distillation**
+  📄 [papers/Weak-to-Strong-Generalization-via-Direct-On-Policy-Distillation.pdf](papers/Weak-to-Strong-Generalization-via-Direct-On-Policy-Distillation.pdf)
 
 ### 5.4 Long Context
 - [ ] **Long-Context LLM.pdf**
