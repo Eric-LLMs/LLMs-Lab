@@ -798,6 +798,8 @@
   📄 [papers/Code-as-Agent-Harness.pdf](papers/Code-as-Agent-Harness.pdf)
 - [ ] **Natural-Language Agent Harnesses**
   📄 [papers/Natural-Language-Agent-Harnesses.pdf](papers/Natural-Language-Agent-Harnesses.pdf)
+- [ ] **Harness Handbook: Making Evolving Agent Harnesses Readable, Navigable, and Editable**
+  📄 [papers/Harness-Handbook-Making-Evolving-Agent-Harnesses-Readable-Navigable-and-Editable.pdf](papers/Harness-Handbook-Making-Evolving-Agent-Harnesses-Readable-Navigable-and-Editable.pdf)
 
 ### 12.3 Multi-Agent Systems
 - [ ] **Collaborative AI Agents in the Era of Large Language Models**
