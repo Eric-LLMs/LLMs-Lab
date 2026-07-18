@@ -37,7 +37,7 @@
 
 ---
 
-## <a id="llm-technology-landscape"></a> LLM Technology Landscape & Evolution (2017–2026)
+## <a id="llm-technology-landscape"></a> LLM Technology Landscape & Evolution (2017–)
 
 > Rooted in the Transformer (2017), this landscape organizes the LLM technology stack into two pillars: **Core Model Artifacts** (left) and **Infrastructure & Application Ecosystem** (right). Each sub-line follows chronological order (`──>` = leads to). Nodes are drawn from the paper collection below.
 
@@ -91,7 +91,7 @@
  │           ├─ Falcon ──> Mistral ──> Yi
  │           ├─ Qwen 2.5 ──> Qwen 3 ──> Qwen 3.5 ──> Qwen 3.6
  │           ├─ DeepSeek-V3 ──> DeepSeek-V4 (Apr 2026)
- │           ├─ Kimi K2 ──> K2.5 ──> K2.7 Code (Jun 2026)
+ │           ├─ Kimi K2 ──> K2.5 ──> K2.7 Code (Jun 2026) ──> Kimi 3
  │           └─ GLM-5 ──> GLM-5.1 ──> GLM-5.2 (Jun 2026)
  │
  ├─ 5. Post-training, Alignment & Policy Scaling
@@ -1079,6 +1079,10 @@
 ### 16.4 Scientific Integrity
 - [ ] **A Quantitative Approach to Estimating Bias Favouritism and Distortion in Scientific Journalism**
   📄 [papers/A-Quantitative-Approach-to-Estimating-Bias-Favouritism-and-Distortion-in-Scientific-Journalism.pdf](papers/A-Quantitative-Approach-to-Estimating-Bias-Favouritism-and-Distortion-in-Scientific-Journalism.pdf)
+
+### 16.5 Watermarking
+- [ ] **A Survey on LLM Watermarking: Theory and Deployment**
+  📄 [papers/A-Survey-on-LLM-Watermarking-Theory-and-Deployment.pdf](papers/A-Survey-on-LLM-Watermarking-Theory-and-Deployment.pdf)
 
 ---
 
