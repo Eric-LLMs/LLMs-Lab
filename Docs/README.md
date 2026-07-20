@@ -289,6 +289,8 @@
   📄 [papers/GLM-5-from-Vibe-Coding-to-Agentic-Engineering.pdf](papers/GLM-5-from-Vibe-Coding-to-Agentic-Engineering.pdf)
 - [ ] **GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents**
   📄 [papers/GLM-5V-Turbo-Toward-a-Native-Foundation-Model-for-Multimodal-Agents.pdf](papers/GLM-5V-Turbo-Toward-a-Native-Foundation-Model-for-Multimodal-Agents.pdf)
+- [ ] **Orca: The World is in Your Mind**
+  📄 [papers/Orca-The-World-is-in-Your-Mind.pdf](papers/Orca-The-World-is-in-Your-Mind.pdf)
 - [ ] **LongCat-Flash-Thinking-2601 Technical Report**
   📄 [papers/LongCat-Flash-Thinking-2601-Technical-Report.pdf](papers/LongCat-Flash-Thinking-2601-Technical-Report.pdf)
 - [ ] **Intern-S1: A Scientific Multimodal Foundation Model**
