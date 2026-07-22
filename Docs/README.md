@@ -1250,6 +1250,9 @@
 - [ ] **Kaggle Chronicles: 15 Years of Competitions Community and Data Science Innovation**
   📄 [papers/Kaggle-Chronicles-15-Years-of-Competitions-Community-and-Data-Science-Innovation.pdf](papers/Kaggle-Chronicles-15-Years-of-Competitions-Community-and-Data-Science-Innovation.pdf)
 
+- [ ] **LLM-Powered Agentic AI for 5G/6G Networks: A Tutorial and Survey on Architectures, Protocols, and Standardization**
+  📄 [papers/LLM-Powered-Agentic-AI-for-5G-6G-Networks-A-Tutorial-and-Survey-on-Architectures-Protocols-and-Standardization.pdf](papers/LLM-Powered-Agentic-AI-for-5G-6G-Networks-A-Tutorial-and-Survey-on-Architectures-Protocols-and-Standardization.pdf)
+
 ### 24.2 Recommender Systems
 - [ ] **How Can Recommender Systems Benefit from Large Language Models: A Survey**
   📄 [papers/How-Can-Recommender-Systems-Benefit-from-Large-Language-Models-A-Survey.pdf](papers/How-Can-Recommender-Systems-Benefit-from-Large-Language-Models-A-Survey.pdf)
