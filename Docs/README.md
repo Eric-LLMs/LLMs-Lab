@@ -674,6 +674,8 @@
 ### 11.2 Advanced Reasoning
 - [ ] **Implicit Reasoning in Large Language Models: A Comprehensive Survey**
   📄 [papers/Implicit-Reasoning-in-Large-Language-Models-A-Comprehensive-Survey.pdf](papers/Implicit-Reasoning-in-Large-Language-Models-A-Comprehensive-Survey.pdf)
+- [ ] **Towards Understanding and Improving Large Language Model Reasoning**
+  📄 [papers/Towards-Understanding-and-Improving-Large-Language-Model-Reasoning.pdf](papers/Towards-Understanding-and-Improving-Large-Language-Model-Reasoning.pdf)
 - [ ] **A Survey on Latent Reasoning**
   📄 [papers/A-Survey-on-Latent-Reasoning.pdf](papers/A-Survey-on-Latent-Reasoning.pdf)
 - [ ] **Efficient Reasoning with Balanced Thinking**
