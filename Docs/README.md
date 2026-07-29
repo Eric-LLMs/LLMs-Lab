@@ -752,6 +752,8 @@
   📄 [papers/SWE-agent-Agent-Computer-Interfaces-Enable-Automated-Software-Engineering.pdf](papers/SWE-agent-Agent-Computer-Interfaces-Enable-Automated-Software-Engineering.pdf)
 - [ ] **Scaling Test Time Compute for Agentic Coding**
   📄 [papers/Scaling-Test-Time-Compute-for-Agentic-Coding.pdf](papers/Scaling-Test-Time-Compute-for-Agentic-Coding.pdf)
+- [ ] **Self Improvements in Modern Agentic Systems A Survey**
+  📄 [papers/Self-Improvements-in-Modern-Agentic-Systems-A-Survey.pdf](papers/Self-Improvements-in-Modern-Agentic-Systems-A-Survey.pdf)
 - [ ] **Thesis Optimizing Agentic Workflows **
   📄 [papers/Thesis-Optimizing-Agentic-Workflows-.pdf](papers/Thesis-Optimizing-Agentic-Workflows-.pdf)
 - [ ] **Thoughts without Thinking Reconsidering the Explanatory Value of Chain of Thought Reasoning in LLMs through Agentic Pipelines**
