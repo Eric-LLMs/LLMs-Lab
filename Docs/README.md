@@ -295,6 +295,8 @@
   📄 [papers/LongCat-Flash-Thinking-2601-Technical-Report.pdf](papers/LongCat-Flash-Thinking-2601-Technical-Report.pdf)
 - [ ] **Intern-S1: A Scientific Multimodal Foundation Model**
   📄 [papers/Intern-S1-A-Scientific-Multimodal-Foundation-Model.pdf](papers/Intern-S1-A-Scientific-Multimodal-Foundation-Model.pdf)
+- [ ] **Kimi K3 Open Frontier Intelligence**
+  📄 [papers/Kimi-K3-Open-Frontier-Intelligence.pdf](papers/Kimi-K3-Open-Frontier-Intelligence.pdf)
 
 ### 2.5 Survey of Models
 - [ ] **A Survey of Large Language Models**
