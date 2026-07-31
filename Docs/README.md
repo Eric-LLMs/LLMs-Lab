@@ -1153,6 +1153,8 @@
 ### 18.3 GUI Agents
 - [ ] **UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning**
   📄 [papers/UI-TARS-2-Technical-Report-Advancing-GUI-Agent-with-Multi-Turn-Reinforcement-Learning.pdf](papers/UI-TARS-2-Technical-Report-Advancing-GUI-Agent-with-Multi-Turn-Reinforcement-Learning.pdf)
+- [ ] **Qwen-UI-Agent Technical Report Toward Next-Generation Real-World Centric Foundation GUI Agents**
+  📄 [papers/Qwen-UI-Agent-Technical-Report-Toward-Next-Generation-Real-World-Centric-Foundation-GUI-Agents.pdf](papers/Qwen-UI-Agent-Technical-Report-Toward-Next-Generation-Real-World-Centric-Foundation-GUI-Agents.pdf)
 
 ---
 
