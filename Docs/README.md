@@ -1309,6 +1309,8 @@
   📄 [papers/Artificial-Hivemind-The-Open-Ended-Homogeneity-of-Language-Models-and-Beyond.pdf](papers/Artificial-Hivemind-The-Open-Ended-Homogeneity-of-Language-Models-and-Beyond.pdf)
 - [ ] **From AGI to ASI**
   📄 [papers/From-AGI-to-ASI.pdf](papers/From-AGI-to-ASI.pdf)
+- [ ] **Program-as-Weights: A Programming Paradigm for Fuzzy Functions**
+  📄 [papers/Program-as-Weights-A-Programming-Paradigm-for-Fuzzy-Functions.pdf](papers/Program-as-Weights-A-Programming-Paradigm-for-Fuzzy-Functions.pdf)
 
 ---
 
